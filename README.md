@@ -1,4 +1,4 @@
-# Awesome-Avalonia
+# Awesome-Avalonia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) is a cross platform XAML Framework for .NET Framework, .NET Core and Mono
 
