@@ -45,6 +45,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
+- [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
+- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
+- [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
+- [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
+- [YetAnotherXmppClient](https://github.com/jfechn/YetAnotherXmppClient) - XMPP library with Avalonia UI.
 
 ## Tutorials
 
@@ -54,10 +59,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Generic
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors} - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
+- [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
+- [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 
 ### MVVM & MVP & MVU
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
 - [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
+- [ReactiveMvvm](https://github.com/worldbeater/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
+- [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 
 ### Chart & Plot
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
@@ -67,7 +76,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [AvaloniaRibbon](https://github.com/amazerol/AvaloniaRibbon) - Ribbon for avalonia.
-- [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI
+- [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
+- [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
+- [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
+- [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
+- [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
 
 ### 
 
@@ -85,9 +98,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Tooling
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
+- [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - 
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
-- [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro. 
+- [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
+- [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro.
+
 
 ## Books
 
@@ -99,4 +115,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 
 ## Community
-
+- [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat
+- [StackOverFlow](https://stackoverflow.com/questions/tagged/avaloniaui) - Ask question in Stack Over Flow with `avaloniaui` tag.
+- [Bug report](https://github.com/AvaloniaUI/Avalonia/issues) - Github Issues page.
