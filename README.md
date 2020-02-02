@@ -50,6 +50,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
 - [YetAnotherXmppClient](https://github.com/jfechn/YetAnotherXmppClient) - XMPP library with Avalonia UI.
+- [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messenging.
 
 ## Tutorials
 
@@ -103,6 +104,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
 - [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro.
+- [Citrus](https://github.com/worldbeater/Avalonia.Citrus) - Avalonia experimental touch-friendly UI theme.
 
 
 ## Books
