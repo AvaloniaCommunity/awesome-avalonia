@@ -58,7 +58,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Libraries & Extensions
 
 ### Generic
-- [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors} - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code
+- [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
+- [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
