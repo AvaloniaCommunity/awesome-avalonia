@@ -101,7 +101,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Tooling
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
-- [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - 
+- [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - Theme manager for Avalonia applications.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
