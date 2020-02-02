@@ -94,6 +94,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 
 ## Podcasts
+- [HanselMinutes - E684](https://www.hanselminutes.com/684/avalonia-is-a-cross-platform-xaml-framework-for-net-framework-net-core-and-mono-with-steve) - Steven Kirk is on HanselMinutes to talk about Avalonia UI.
 
 
 ## Presentations slides
