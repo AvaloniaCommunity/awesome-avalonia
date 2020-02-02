@@ -11,7 +11,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Content
 
 * [General](#general)
-* [Sample Projects](#sample-projects)
+* [Samples and Projects](#samples-and-projects)
 * [Tutorials](#tutorials)
 * [Libraries & Extensions](#libraries--extensions)
 * [Videos](#videos)
@@ -31,7 +31,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia Dotnet Template](https://github.com/AvaloniaUI/avalonia-dotnet-templates) - Avalonia Templates for `dotnet new`.
 - [AvaloniaAnalyzers](https://github.com/AvaloniaUI/AvaloniaAnalyzers) - Roslyn-based analyzers and code fixes to help write Avalonia control libraries and applications. 
 
-## Sample Projects
+## Sample and Projects
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
@@ -41,12 +41,19 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
-
+- [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
+- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+- [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
+- [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
 
 ## Tutorials
 
 
 ## Libraries & Extensions
+
+### Generic
+- [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors} - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code
+- [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
 
 ### MVVM & MVP & MVU
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
@@ -59,7 +66,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
+- [AvaloniaRibbon](https://github.com/amazerol/AvaloniaRibbon) - Ribbon for avalonia.
+- [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI
 
+### 
 
 ## Videos
 
@@ -76,6 +86,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Tooling
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
+- [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
+- [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro. 
 
 ## Books
 
