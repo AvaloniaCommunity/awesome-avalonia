@@ -88,7 +88,15 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### 
 
 ## Videos
-
+- [Nikita Tsukanov - XAML-oriented](https://www.youtube.com/watch?v=DLHhZJkSqWk) - Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework.
+- [libdrm and Multi Touch](https://www.youtube.com/watch?v=t8Ww17iPdqs) - Avalonia libdrm/egl/libinput backend progress.
+- [Wiesław Šoltés - Dock](https://www.youtube.com/watch?v=KHH23BFgU30) - Dock - docking layout system for Avalonia applications - docking between windows.
+- [World of Zero - Hello World](https://www.youtube.com/watch?v=rho26Ik30D4) - A Cross Platform .NET UI Framework - Hello World in Avalonia UI.
+- [Wiesław Šoltés - Svg](https://www.youtube.com/watch?v=UHmlfBMq6W4) - Avalonia SVG image support.
+- [Wiesław Šoltés - Draw2D and Svg](https://www.youtube.com/watch?v=6hnVwWOeOt8) - Svg.Skia an SVG rendering library AvaloniaUI demo.
+- [VNC Server](https://www.youtube.com/watch?v=HAyHIvSzweM) - Avalonia acting as a VNC server
+- [Wiesław Šoltés - Theme Manager](https://www.youtube.com/watch?v=btsaMx9rI_I) - AvaloniaUI Theme Manager.
+- [Nikita Tsukanov - Framebuffer](https://www.youtube.com/watch?v=NkTPfBfDmtA) - AvaloniaUI running without X server on top of /dev/fb0 and libevdev2.
 
 ## Articles
 
@@ -108,7 +116,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
 - [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro.
 - [Citrus](https://github.com/worldbeater/Avalonia.Citrus) - Avalonia experimental touch-friendly UI theme.
-
+- [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 
 ## Books
 
@@ -123,3 +131,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat
 - [StackOverFlow](https://stackoverflow.com/questions/tagged/avaloniaui) - Ask question in Stack Over Flow with `avaloniaui` tag.
 - [Bug report](https://github.com/AvaloniaUI/Avalonia/issues) - Github Issues page.
+
+## Other Languages
+- [Nikita Tsukanov - DotNext](https://www.youtube.com/watch?v=8qzqweimcFs) - Никита Цуканов — AvaloniaUI — первый кроссплатформенный XAML UI-фреймворк с поддержкой .NET Core.
+- [Nikita Tsukanov - CLRium](https://www.youtube.com/watch?v=6uq1-ii26Es) - CLRium #3: Кросс-платформенная разработка с использованием AvaloniaUI.
