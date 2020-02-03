@@ -23,6 +23,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [E-Books](#e-books)
 * [Courses](#courses)
 * [Community](#community)
+* [Other Languages](#other-languages)
 
 
 ## General
