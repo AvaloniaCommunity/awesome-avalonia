@@ -54,7 +54,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messenging.
 
 ## Tutorials
-
+- [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
+- [AvaloniaUI Tutorial](https://avaloniaui.net/docs/tutorial/) - Official AvaloniaUI tutorial.
+- [Avalonia for WPF Developers](https://avaloniaui.net/docs/quickstart/from-wpf) - Quick start for WPF developers.
+- [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
+- [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
+- [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
 
 ## Libraries & Extensions
 
