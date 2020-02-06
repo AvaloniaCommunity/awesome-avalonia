@@ -91,7 +91,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
 
-### 
+### Web Browsers
+- [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
+- [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 
 ## Videos
 - [Nikita Tsukanov - XAML-oriented](https://www.youtube.com/watch?v=DLHhZJkSqWk) - Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework.
