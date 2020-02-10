@@ -126,6 +126,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro.
 - [Citrus](https://github.com/worldbeater/Avalonia.Citrus) - Avalonia experimental touch-friendly UI theme.
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
+- [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
 
 ## Books
 
