@@ -52,6 +52,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
 - [YetAnotherXmppClient](https://github.com/jfechn/YetAnotherXmppClient) - XMPP library with Avalonia UI.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messenging.
+- [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural nwtwork.
 
 ## Tutorials
 - [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
