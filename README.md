@@ -38,6 +38,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [Jaya](https://github.com/waliarubal/Jaya) - Cross platform file explorer application for Windows, Mac and Linux operating systems.
+- [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [Radish](https://github.com/rbmkio/radish) - Cross-platform desktop client designed exclusively for Redis
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
