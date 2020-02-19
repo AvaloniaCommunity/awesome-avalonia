@@ -148,3 +148,4 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Nikita Tsukanov - DotNext](https://www.youtube.com/watch?v=8qzqweimcFs) - Никита Цуканов — AvaloniaUI — первый кроссплатформенный XAML UI-фреймворк с поддержкой .NET Core.
 - [Nikita Tsukanov - CLRium](https://www.youtube.com/watch?v=6uq1-ii26Es) - CLRium #3: Кросс-платформенная разработка с использованием AvaloniaUI.
 - [entwickler - eine Cross-Plattform-Lösung](https://entwickler.de/online/windowsdeveloper/xaml-cross-plattform-loesung-579812969.html) - XAML-Tipp: Avalonia – eine Cross-Plattform-Lösung für XAML
+- [LauZyHou - sbid-ava](https://github.com/LauZyHou/sbid-ava) - 内生安全建模工具，基于.Net Core 3.0的Avalonia跨平台桌面应用。
