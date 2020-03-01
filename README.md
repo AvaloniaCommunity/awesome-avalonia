@@ -64,6 +64,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
 - [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
+- [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
 
 ## Libraries & Extensions
 
