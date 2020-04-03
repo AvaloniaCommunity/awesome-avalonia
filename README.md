@@ -90,6 +90,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
+- [Paginator](https://github.com/CreateLab/Paginator.Avalonia) - Easy paginator for Avalonia UI.
 
 ### 
 
