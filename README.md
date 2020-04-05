@@ -32,7 +32,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia Dotnet Template](https://github.com/AvaloniaUI/avalonia-dotnet-templates) - Avalonia Templates for `dotnet new`.
 - [AvaloniaAnalyzers](https://github.com/AvaloniaUI/AvaloniaAnalyzers) - Roslyn-based analyzers and code fixes to help write Avalonia control libraries and applications. 
 
-## Sample and Projects
+## Samples and Projects
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
@@ -114,7 +114,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Nikita Tsukanov - Framebuffer](https://www.youtube.com/watch?v=NkTPfBfDmtA) - AvaloniaUI running without X server on top of /dev/fb0 and libevdev2.
 
 ## Articles
-- [Sanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
+- [Hanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
 - [idiwork - Cross-platform apps with XAML](https://www.idiwork.com/avalonia-a-big-candidate-to-create-crossplatform-apps-with-xaml/) - Avalonia, a big candidate to create cross-platform apps with XAML.
 
 ## Podcasts
