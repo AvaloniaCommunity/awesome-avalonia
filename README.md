@@ -76,6 +76,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
+- [Citrus.Avalonia](https://github.com/worldbeater/Citrus.Avalonia) - Five color schemes for Avalonia UI.
 
 ### MVVM & MVP & MVU
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
