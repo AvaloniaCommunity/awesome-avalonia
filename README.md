@@ -117,10 +117,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Articles
 - [Hanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
 - [idiwork - Cross-platform apps with XAML](https://www.idiwork.com/avalonia-a-big-candidate-to-create-crossplatform-apps-with-xaml/) - Avalonia, a big candidate to create cross-platform apps with XAML.
+- [Artyom Gorchakov - A Cross-Platform GUI Theme for Desktop .NET Core Applications](https://link.medium.com/J3ZeqsK2F6)
 
 ## Podcasts
 - [HanselMinutes - E684](https://www.hanselminutes.com/684/avalonia-is-a-cross-platform-xaml-framework-for-net-framework-net-core-and-mono-with-steve) - Steven Kirk is on HanselMinutes to talk about Avalonia UI.
-
 
 ## Presentations slides
 
