@@ -137,6 +137,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
 - [Rider Plugin For Avalonia](https://github.com/ForNeVeR/AvaloniaRider) - JetBrains Rider plugin for Avalonia development.
+- [Live.Avalonia](https://github.com/worldbeater/Live.Avalonia) - Live reloading tool for developing Avalonia applications.
 
 ## Books
 
