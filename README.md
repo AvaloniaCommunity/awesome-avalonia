@@ -56,6 +56,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural nwtwork.
 - [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
+- [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and Mac.
 
 ## Tutorials
 - [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
