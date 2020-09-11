@@ -101,6 +101,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
+- [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 
 ### Web Browsers
 - [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
