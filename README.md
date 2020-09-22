@@ -44,7 +44,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
-- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit.
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
@@ -54,7 +54,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [YetAnotherXmppClient](https://github.com/jfechn/YetAnotherXmppClient) - XMPP library with Avalonia UI.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messenging.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural nwtwork.
-- [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
+- [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries.
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and Mac.
 
@@ -65,16 +65,16 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
-- [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
-- [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
-- [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
+- [Desktop Apps with Avalonia and FSharp](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21).
+- [AvaloniaUI IoT LED Bar sample](https://github.com/SuperJMN/Avalonia-IoT-LedBar).
+- [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia.
 
 ## Libraries & Extensions
 
 ### Generic
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
-- [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
+- [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design.
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
@@ -88,7 +88,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Chart & Plot
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
-- [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
+- [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET.
 
 ### Controls
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
@@ -101,27 +101,27 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
-- [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
+- [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI.
 
 ### Web Browsers
 - [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 
 ## Videos
-- [Nikita Tsukanov - XAML-oriented](https://www.youtube.com/watch?v=DLHhZJkSqWk) - Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework.
-- [libdrm and Multi Touch](https://www.youtube.com/watch?v=t8Ww17iPdqs) - Avalonia libdrm/egl/libinput backend progress.
-- [Wiesław Šoltés - Dock](https://www.youtube.com/watch?v=KHH23BFgU30) - Dock - docking layout system for Avalonia applications - docking between windows.
-- [World of Zero - Hello World](https://www.youtube.com/watch?v=rho26Ik30D4) - A Cross Platform .NET UI Framework - Hello World in Avalonia UI.
-- [Wiesław Šoltés - Svg](https://www.youtube.com/watch?v=UHmlfBMq6W4) - Avalonia SVG image support.
-- [Wiesław Šoltés - Draw2D and Svg](https://www.youtube.com/watch?v=6hnVwWOeOt8) - Svg.Skia an SVG rendering library AvaloniaUI demo.
-- [VNC Server](https://www.youtube.com/watch?v=HAyHIvSzweM) - Avalonia acting as a VNC server
-- [Wiesław Šoltés - Theme Manager](https://www.youtube.com/watch?v=btsaMx9rI_I) - AvaloniaUI Theme Manager.
-- [Nikita Tsukanov - Framebuffer](https://www.youtube.com/watch?v=NkTPfBfDmtA) - AvaloniaUI running without X server on top of /dev/fb0 and libevdev2.
+- [Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework](https://www.youtube.com/watch?v=DLHhZJkSqWk).
+- [Avalonia libdrm/egl/libinput backend progress](https://www.youtube.com/watch?v=t8Ww17iPdqs).
+- [Dock - docking layout system for Avalonia applications - docking between windows](https://www.youtube.com/watch?v=KHH23BFgU30).
+- [A Cross Platform .NET UI Framework - Hello World in Avalonia UI](https://www.youtube.com/watch?v=rho26Ik30D4).
+- [Avalonia SVG image support](https://www.youtube.com/watch?v=UHmlfBMq6W4).
+- [Svg.Skia an SVG rendering library AvaloniaUI demo](https://www.youtube.com/watch?v=6hnVwWOeOt8).
+- [Avalonia acting as a VNC server](https://www.youtube.com/watch?v=HAyHIvSzweM).
+- [AvaloniaUI Theme Manager](https://www.youtube.com/watch?v=btsaMx9rI_I).
+- [AvaloniaUI running without X server on top of /dev/fb0 and libevdev2](https://www.youtube.com/watch?v=NkTPfBfDmtA).
 
 ## Articles
-- [Hanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
-- [idiwork - Cross-platform apps with XAML](https://www.idiwork.com/avalonia-a-big-candidate-to-create-crossplatform-apps-with-xaml/) - Avalonia, a big candidate to create cross-platform apps with XAML.
-- [Artyom Gorchakov in The Startup - A Cross-Platform GUI Theme for Desktop .NET Core Applications](https://link.medium.com/J3ZeqsK2F6) - Getting started with building awesome cross-platform user interfaces with Avalonia framework and a modern UI theme.
+- [What would a cross-platform .NET UI Framework look like? Exploring Avalonia](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx).
+- [Avalonia, a big candidate to create cross-platform apps with XAML 😎📲](https://www.idiwork.com/avalonia-a-big-candidate-to-create-crossplatform-apps-with-xaml/).
+- [A Cross-Platform GUI Theme for Desktop .NET Core Applications](https://link.medium.com/J3ZeqsK2F6) - Getting started with building awesome cross-platform user interfaces with Avalonia framework and a modern UI theme.
 
 ## Podcasts
 - [HanselMinutes - E684](https://www.hanselminutes.com/684/avalonia-is-a-cross-platform-xaml-framework-for-net-framework-net-core-and-mono-with-steve) - Steven Kirk is on HanselMinutes to talk about Avalonia UI.
@@ -152,12 +152,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 
 ## Community
-- [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat
+- [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat.
 - [StackOverFlow](https://stackoverflow.com/questions/tagged/avaloniaui) - Ask question in Stack Over Flow with `avaloniaui` tag.
 - [Bug report](https://github.com/AvaloniaUI/Avalonia/issues) - Github Issues page.
 
 ## Other Languages
-- [Nikita Tsukanov - DotNext](https://www.youtube.com/watch?v=8qzqweimcFs) - Никита Цуканов — AvaloniaUI — первый кроссплатформенный XAML UI-фреймворк с поддержкой .NET Core.
-- [Nikita Tsukanov - CLRium](https://www.youtube.com/watch?v=6uq1-ii26Es) - CLRium #3: Кросс-платформенная разработка с использованием AvaloniaUI.
-- [entwickler - eine Cross-Plattform-Lösung](https://entwickler.de/online/windowsdeveloper/xaml-cross-plattform-loesung-579812969.html) - XAML-Tipp: Avalonia – eine Cross-Plattform-Lösung für XAML
-- [LauZyHou - sbid-ava](https://github.com/LauZyHou/sbid-ava) - 内生安全建模工具，基于.Net Core 3.0的Avalonia跨平台桌面应用。
+- [Никита Цуканов — AvaloniaUI — первый кроссплатформенный XAML UI-фреймворк с поддержкой .NET Core](https://www.youtube.com/watch?v=8qzqweimcFs) - Video.
+- [CLRium #3: Кросс-платформенная разработка с использованием AvaloniaUI](https://www.youtube.com/watch?v=6uq1-ii26Es) - Video.
+- [XAML-Tipp: Avalonia – eine Cross-Plattform-Lösung für XAML](https://entwickler.de/online/windowsdeveloper/xaml-cross-plattform-loesung-579812969.html) - Article.
+- [🔮内生安全建模工具，基于.Net Core 3.0的Avalonia跨平台桌面应用。](https://github.com/LauZyHou/sbid-ava) - Project.
