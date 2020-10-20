@@ -104,6 +104,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 
 ### Web Browsers
+- [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
 - [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 
