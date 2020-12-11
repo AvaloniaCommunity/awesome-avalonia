@@ -58,6 +58,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and Mac.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
+- [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
 
 ## Tutorials
 - [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
