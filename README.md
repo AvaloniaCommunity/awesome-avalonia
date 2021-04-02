@@ -61,6 +61,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor. 
+- [Nickvision Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - An easy-to-use YouTube video downloader
+- [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) - An easy-to-use music metadata (tag) editor
+- [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
 
 ## Tutorials
 - [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
@@ -83,6 +86,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App. 
+- [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
 
 ### MVVM & MVP & MVU
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
