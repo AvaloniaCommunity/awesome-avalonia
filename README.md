@@ -60,6 +60,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
 - [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
+- [VisualFileSorter](https://github.com/VisualFileSorter/VisualFileSorter) A Windows utility program to quickly and visually sort files
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and Mac.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
