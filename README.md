@@ -83,8 +83,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App. 
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
+- [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://materialdesignicons.com/)
 - [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
+- [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 
@@ -108,6 +110,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
+- [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
