@@ -53,6 +53,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) - An easy-to-use music metadata (tag) editor
 - [Nickvision Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - An easy-to-use YouTube video downloader
+- [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
 - [Radish](https://github.com/rbmkio/radish) - Cross-platform desktop client designed exclusively for Redis
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
