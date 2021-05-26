@@ -68,11 +68,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Tutorials
 - [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
-- [Avalonia for WPF Developers](https://avaloniaui.net/docs/quickstart/from-wpf) - Quick start for WPF developers.
-- [AvaloniaUI Tutorial](https://avaloniaui.net/docs/tutorial/) - Official AvaloniaUI tutorial.
+- [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
+- [AvaloniaUI Tutorial](https://docs.avaloniaui.net/guides/basics/) - Official AvaloniaUI tutorial.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
-- [Quickstart](https://avaloniaui.net/docs/quickstart/) - Info for quick start with Avalonia UI.
+- [Quickstart](https://docs.avaloniaui.net/docs/getting-started/) - Info for quick start with Avalonia UI.
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
