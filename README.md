@@ -117,6 +117,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
+- [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
 - [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
