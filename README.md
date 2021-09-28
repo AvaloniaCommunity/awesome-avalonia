@@ -34,6 +34,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Samples and Projects
 - [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
+- [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, flexible soundboard, created using .Net 5 and Avalonia.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
