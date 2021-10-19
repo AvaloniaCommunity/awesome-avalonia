@@ -134,7 +134,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
 
 ### Web Browsers
-- [CefGlue](https://gitlab.com/joaompneves/cefglue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
+- [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
 
