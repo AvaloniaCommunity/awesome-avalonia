@@ -96,6 +96,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
+- [Dove.Avalonia.Controls.Extensions.ChineseInputSuport](https://github.com/michael-eddy/Avalonia.Extensions/tree/main/Avalonia.Extensions.Chinese) - Chinese input and display support in Avalonia
 
 ### MVVM & MVP & MVU
 - [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
@@ -133,6 +134,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals. 
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+- [Dove.Avalonia.Controls.Extensions](https://github.com/michael-eddy/Avalonia.Extensions/tree/main/Avalonia.Extensions.Controls) - Wpf or UWP like controls in Avalonia
 
 ### Web Browsers
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
