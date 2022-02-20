@@ -86,6 +86,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Generic
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
+- [AsyncImageLoader.Avalonia](https://github.com/AvaloniaUtils/AsyncImageLoader.Avalonia) - Provides way to asynchronous Images loading. From web and beyond
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App. 
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
@@ -118,7 +119,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/AvaloniaSpacedGrid) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
-- [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
