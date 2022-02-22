@@ -87,6 +87,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Generic
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
+- [AsyncImageLoader.Avalonia](https://github.com/AvaloniaUtils/AsyncImageLoader.Avalonia) - Provides way to asynchronous Images loading. From web and beyond
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App. 
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
