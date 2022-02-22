@@ -119,6 +119,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/AvaloniaSpacedGrid) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
+- [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
