@@ -77,12 +77,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
 - [AvaloniaUI Tutorial](https://docs.avaloniaui.net/guides/basics/) - Official AvaloniaUI tutorial.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
+- [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
 - [Quickstart](https://docs.avaloniaui.net/docs/getting-started/) - Info for quick start with Avalonia UI.
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
-- [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
+
 ## Libraries & Extensions
 
 ### Generic
