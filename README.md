@@ -116,6 +116,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB and CIELAB color spaces.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
+- [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
 - [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
