@@ -6,5 +6,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[Lib Name](link) - Description.` 
 - Keep descriptions short and simple. 
 - The pull requests must have a useful title.
+- We try to keep the list sorted.
 
 Thank you for your suggestions!.
