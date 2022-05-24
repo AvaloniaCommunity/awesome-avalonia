@@ -72,7 +72,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue
 - [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
-- [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Cross-platform tool for uploading videos to YouTube converted from WPF ot Avalonia.
+- [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 ## Tutorials
 - [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
 - [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
