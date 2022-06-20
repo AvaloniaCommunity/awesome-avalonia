@@ -50,6 +50,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
+- [MarkDoc.Core](https://github.com/hailstorm75/MarkDoc.Core) - Modular documentation generator for .NET projects
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
 - [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
