@@ -1,4 +1,4 @@
-# Awesome-Avalonia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+# Awesome-Avalonia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) is a cross platform XAML Framework for .NET Framework, .NET Core and Mono
 
@@ -28,7 +28,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## General
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Avalonia source code.
-- [AvaloniaAnalyzers](https://github.com/AvaloniaUI/AvaloniaAnalyzers) - Roslyn-based analyzers and code fixes to help write Avalonia control libraries and applications. 
+- [AvaloniaAnalyzers](https://github.com/AvaloniaUI/AvaloniaAnalyzers) - Roslyn-based analyzers and code fixes to help write Avalonia control libraries and applications.
 - [Avalonia Dotnet Template](https://github.com/AvaloniaUI/avalonia-dotnet-templates) - Avalonia Templates for `dotnet new`.
 - [AvaloniaVS](https://github.com/AvaloniaUI/AvaloniaVS) - Visual Studio Extension for Avalonia.
 
@@ -40,7 +40,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
 - [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
-- [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor. 
+- [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
@@ -50,16 +50,19 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
+- [MarkDoc.Core](https://github.com/hailstorm75/MarkDoc.Core) - Modular documentation generator for .NET projects
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
 - [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) - An easy-to-use music metadata (tag) editor
 - [Nickvision Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - An easy-to-use YouTube video downloader
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
+- [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
 - [Radish](https://github.com/rbmkio/radish) - Cross-platform desktop client designed exclusively for Redis
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
+- [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
 - [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
@@ -77,21 +80,23 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
 - [AvaloniaUI Tutorial](https://docs.avaloniaui.net/guides/basics/) - Official AvaloniaUI tutorial.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
+- [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
 - [Quickstart](https://docs.avaloniaui.net/docs/getting-started/) - Info for quick start with Avalonia UI.
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
-- [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
+
 ## Libraries & Extensions
 
 ### Generic
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
 - [AsyncImageLoader.Avalonia](https://github.com/AvaloniaUtils/AsyncImageLoader.Avalonia) - Provides way to asynchronous Images loading. From web and beyond
 - [AvaloniaBehaviors](https://github.com/wieslawsoltes/AvaloniaBehaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
-- [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App. 
+- [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
 - [Material Design](https://github.com/CreateLab/material.avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://materialdesignicons.com/)
+- [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
@@ -115,7 +120,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB and CIELAB color spaces.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
-- [AvaloniaGif](https://github.com/jmacato/AvaloniaGif) - Purely C# GIF decoder and animation library.
+- [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
+- [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
@@ -131,12 +137,14 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
 - [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
-- [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control. 
+- [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
+- [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
-- [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals. 
+- [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
+- [SukiUI](https://github.com/kikipoulet/SukiUI) - Flat design UI Library, Styles and few additional controls
+- [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
-- [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style. 
 
 ### Web Browsers
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
