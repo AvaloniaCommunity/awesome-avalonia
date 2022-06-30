@@ -52,6 +52,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
 - [MarkDoc.Core](https://github.com/hailstorm75/MarkDoc.Core) - Modular documentation generator for .NET projects
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
+- [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
 - [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
 - [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) - An easy-to-use music metadata (tag) editor
