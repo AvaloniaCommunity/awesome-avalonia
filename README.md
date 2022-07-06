@@ -10,20 +10,27 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Content
 
-* [General](#general)
-* [Samples and Projects](#samples-and-projects)
-* [Tutorials](#tutorials)
-* [Libraries & Extensions](#libraries--extensions)
-* [Videos](#videos)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Presentations slides](#presentations-slides)
-* [Tooling](#tooling)
-* [Books](#books)
-* [E-Books](#e-books)
-* [Courses](#courses)
-* [Community](#community)
-* [Other Languages](#other-languages)
+- [Awesome-Avalonia ![PRs Welcome](http://makeapullrequest.com)](#awesome-avalonia-)
+  - [Content](#content)
+  - [General](#general)
+  - [Samples and Projects](#samples-and-projects)
+  - [Tutorials](#tutorials)
+  - [Libraries & Extensions](#libraries--extensions)
+    - [Generic](#generic)
+    - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
+    - [Chart & Plot](#chart--plot)
+    - [Controls](#controls)
+    - [Web Browsers](#web-browsers)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
+  - [Presentations slides](#presentations-slides)
+  - [Tooling](#tooling)
+  - [Books](#books)
+  - [E-Books](#e-books)
+  - [Courses](#courses)
+  - [Community](#community)
+  - [Other Languages](#other-languages)
 
 
 ## General
@@ -61,6 +68,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
 - [Radish](https://github.com/rbmkio/radish) - Cross-platform desktop client designed exclusively for Redis
+- [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
