@@ -197,6 +197,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
 - [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - Theme manager for Avalonia applications.
 - [Avalonia Material Icon Pack](https://github.com/aboimpinto/MaterialDesign.Avalonia) - All Material Icons Pack that can be found in https://fonts.google.com/icons (net5.0 only).
+- [Avalonia Toolkit](https://github.com/rabbitism/AvaloniaToolkit) - Visual Studio Extension to generate boilerplate Avalonia related code. 
 
 ## Books
 
