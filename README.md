@@ -118,6 +118,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/worldbeater/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
+- [ReactiveValidation](https://github.com/Karnah/ReactiveValidation) - Validating properties with messages on UI using fluent-style rules.
 
 ### Chart & Plot
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
