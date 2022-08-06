@@ -40,6 +40,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaVS](https://github.com/AvaloniaUI/AvaloniaVS) - Visual Studio Extension for Avalonia.
 
 ## Samples and Projects
+- [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) - Plays music in 432hz.
+- [432hz Batch Converter](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Batch-Converter) - Converts and re-encodes music to 432hz.
 - [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
 - [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, cross-platform soundboard, available for Windows, Linux, and MacOS.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
@@ -61,11 +63,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
-- [Nickvision Money](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager
-- [Nickvision Tagger](https://github.com/nlogozzo/NickvisionTagger) - An easy-to-use music metadata (tag) editor
-- [Nickvision Tube Converter](https://github.com/nlogozzo/NickvisionTubeConverter) - An easy-to-use YouTube video downloader
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
+- [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
 - [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
 - [Radish](https://github.com/rbmkio/radish) - Cross-platform desktop client designed exclusively for Redis
@@ -89,6 +89,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
 - [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
 - [AvaloniaUI Tutorial](https://docs.avaloniaui.net/guides/basics/) - Official AvaloniaUI tutorial.
+- [Build Modern Cross-Platform Apps with .NET](https://github.com/mysteryx93/Modern.Net-Tutorial) - Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive and Deployment.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
 - [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
@@ -115,6 +116,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### MVVM & MVP & MVU
 - [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
+- [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/worldbeater/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
@@ -148,6 +150,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
 - [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
+- [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
 - [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
