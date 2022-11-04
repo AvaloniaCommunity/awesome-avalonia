@@ -79,6 +79,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
 - [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
+- [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A Cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
