@@ -10,7 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Content
 
-- [Awesome-Avalonia](#awesome-avalonia-)
+- [Awesome-Avalonia](#awesome-avalonia)
   - [Content](#content)
   - [General](#general)
   - [Samples and Projects](#samples-and-projects)
