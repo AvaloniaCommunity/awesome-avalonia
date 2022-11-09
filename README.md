@@ -18,7 +18,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   - [Libraries & Extensions](#libraries--extensions)
     - [Generic](#generic)
     - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
-    - [Chart & Plot](#chart--plot)
+    - [Charts & Plots & Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
     - [Web Browsers](#web-browsers)
   - [Videos](#videos)
@@ -126,11 +126,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ReactiveMvvm](https://github.com/worldbeater/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
 - [ReactiveValidation](https://github.com/Karnah/ReactiveValidation) - Validating properties with messages on UI using fluent-style rules.
 
-### Chart & Plot
+### Charts & Plots & Diagrams
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
 - [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
 - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net.
+- [GoDiagram](https://github.com/NorthwoodsSoftware/GoDiagram) - A .NET library for rapidly building interactive diagrams.
 
 ### Controls
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
