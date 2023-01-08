@@ -20,6 +20,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
     - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
     - [Charts & Plots & Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
+    - [Games and Game engines]
     - [Web Browsers](#web-browsers)
   - [Videos](#videos)
   - [Articles](#articles)
@@ -46,7 +47,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, cross-platform soundboard, available for Windows, Linux, and MacOS.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
-- [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
 - [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
@@ -113,7 +113,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://materialdesignicons.com/)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
-- [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
@@ -166,6 +165,12 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Flat design UI Library, Styles and few additional controls
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+
+### Games and Game engines
+- [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
+- [Macabre2D](https://github.com/Macabresoft/Macabre2D/) - A game engine built on MonoGame. 
+- [MonoGame](https://github.com/AvaloniaInside/AvaloniaInside.MonoGame) - Integration of MonoGame for Avalonia.
+- [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
 
 ### Web Browsers
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
