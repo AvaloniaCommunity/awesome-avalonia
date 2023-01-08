@@ -20,7 +20,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
     - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
     - [Charts & Plots & Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
-    - [Games and Game engines]
+    - [Games and Game engines](#games-and-game-engines)
     - [Web Browsers](#web-browsers)
   - [Videos](#videos)
   - [Articles](#articles)
