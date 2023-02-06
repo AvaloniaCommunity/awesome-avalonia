@@ -113,6 +113,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://materialdesignicons.com/)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
+- [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
@@ -162,7 +163,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
-- [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Flat design UI Library, Styles and few additional controls
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
