@@ -21,7 +21,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
     - [Charts & Plots & Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
     - [Games and Game engines](#games-and-game-engines)
-    - [Document Viewer](#document-viewer)
     - [Web Browsers](#web-browsers)
   - [Videos](#videos)
   - [Articles](#articles)
@@ -159,6 +158,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
 - [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
+- [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
@@ -173,9 +173,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Macabre2D](https://github.com/Macabresoft/Macabre2D/) - A game engine built on MonoGame. 
 - [MonoGame](https://github.com/AvaloniaInside/AvaloniaInside.MonoGame) - Integration of MonoGame for Avalonia.
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
-
-### Document Viewer
-- [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
 
 ### Web Browsers
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
