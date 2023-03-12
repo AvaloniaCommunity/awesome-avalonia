@@ -83,6 +83,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and MacOS.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
+- [Xune](https://github.com/VitalElement/Xune) - A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue
 - [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
