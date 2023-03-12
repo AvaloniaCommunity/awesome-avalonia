@@ -76,8 +76,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
-- [Synfonia](https://github.com/jmacato/Synfonia) - A music-oriented media player built with AvaloniaUI and our own fork of SharpAudio with FFMPEG Integration.
-- [traficante](https://github.com/golabek-co-uk/traficante) - An app that let you run cross database(eg. SqlServer and ElasticSearch) SQL queries
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
 - [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
