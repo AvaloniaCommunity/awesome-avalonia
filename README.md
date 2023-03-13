@@ -204,6 +204,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ## Tooling
 - [Avalonia Material Icon Pack](https://github.com/aboimpinto/MaterialDesign.Avalonia) - All Material Icons Pack that can be found in https://fonts.google.com/icons (net5.0 only).
 - [Avalonia Toolkit](https://github.com/rabbitism/AvaloniaToolkit) - Visual Studio Extension to generate boilerplate Avalonia related code. 
+- [Avant Garde](https://github.com/kuiperzone/AvantGarde) - Standalone cross-platform XAML previewer for the C# Avalonia Framework
 - [Citrus](https://github.com/worldbeater/Avalonia.Citrus) - Avalonia experimental touch-friendly UI theme.
 - [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
