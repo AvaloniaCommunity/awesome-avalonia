@@ -50,6 +50,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
+- [efmig](https://github.com/stil/efmig) - cross-platform GUI app for working with Entity Framework Core migrations, available for Windows, macOS and Linux.
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
