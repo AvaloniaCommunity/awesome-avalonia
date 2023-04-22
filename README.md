@@ -224,6 +224,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
 - [Live.Avalonia](https://github.com/worldbeater/Live.Avalonia) - Live reloading tool for developing Avalonia applications.
 - [nkyUI](https://github.com/0xFireball/nkyUI) - Neptunium kyUI - UI styles for Avalonia. Inspired by MahApps.Metro.
+- [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your Avalonia application and packages it as a ready-to-ship installation file.
 - [Rider Plugin For Avalonia](https://github.com/ForNeVeR/AvaloniaRider) - JetBrains Rider plugin for Avalonia development.
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
