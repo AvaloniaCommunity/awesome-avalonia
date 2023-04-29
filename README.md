@@ -138,7 +138,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
 - [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
-
+- [StockPlot](https://github.com/BizUnity/StockPlot) - A Stcok Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
+- 
 ### Controls
 
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
