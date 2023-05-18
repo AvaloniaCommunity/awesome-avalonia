@@ -17,6 +17,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   - [Tutorials](#tutorials)
   - [Libraries & Extensions](#libraries--extensions)
     - [Generic](#generic)
+    - [Theme & Icons](#theme--icons)
     - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
     - [Charts & Plots & Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
@@ -142,7 +143,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
 - [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
 - [StockPlot](https://github.com/BizUnity/StockPlot) - A Stcok Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
-- 
+
 ### Controls
 
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
