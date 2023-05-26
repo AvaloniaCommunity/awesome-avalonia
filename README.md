@@ -50,6 +50,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
 - [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
+- [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
