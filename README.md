@@ -188,6 +188,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Games and Game engines
 
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
+- [Estragonia](https://github.com/MrJul/Estragonia) - Integration of Avalonia into the Godot game engine.
 - [Macabre2D](https://github.com/Macabresoft/Macabre2D/) - A game engine built on MonoGame.
 - [MonoGame](https://github.com/AvaloniaInside/AvaloniaInside.MonoGame) - Integration of MonoGame for Avalonia.
 - [PokemonBattleEngine](https://github.com/Kermalis/PokemonBattleEngine) - A C# library that can emulate Pokémon battles.
