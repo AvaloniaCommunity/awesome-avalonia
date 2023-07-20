@@ -129,6 +129,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://materialdesignicons.com/)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
+- [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 
 ### MVVM & MVP & MVU
 
@@ -199,6 +200,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
+- [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for avalonia, which used the features of platform.
 
 ## Videos
 
