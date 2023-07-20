@@ -108,8 +108,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
-- [Avalonia Blazor WebView Sample](https://github.com/MicroSugarDeveloperOrg/Avalonia.BlazorWebView.Sample) - A blazorwebview sample for avalonia.
-- [Avalonia WebView Sample](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView.Sample) - A webview sample for avalonia.
 
 ## Libraries & Extensions
 
@@ -202,7 +200,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
-- [BlazorWebView & WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for avalonia.
+- [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for avalonia, which used the features of platform.
 
 ## Videos
 
