@@ -182,6 +182,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
+- [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Flat design UI Library, Styles and few additional controls
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
