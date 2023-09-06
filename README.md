@@ -67,6 +67,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
+- [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
@@ -118,6 +119,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, And Side Menu
 - [Nickvision.Avalonia](https://github.com/nlogozzo/Nickvision.Avalonia) - A library for Avalonia app development that contains a lightweight MVVM framework, custom controls, and an update framework
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
+- [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
@@ -137,6 +139,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 - [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
 - [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
+- [NP.Avalonia.Gidon](https://github.com/npolyak/NP.Avalonia.Gidon) - IoC MVVM framework for Avalonia UI.
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/worldbeater/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
@@ -180,6 +183,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
+- [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications
