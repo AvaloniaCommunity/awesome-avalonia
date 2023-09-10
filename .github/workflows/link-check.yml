@@ -4,8 +4,10 @@ name: link-check
 
 # Controls when the workflow will run
 on:
+  # runs every monday at 9 am
   schedule:
-    - cron: 0 0 * * 0 # once a week on sunday
+    - cron: "0 9 * * 1"
+    
   # Triggers the workflow on push or pull request events but only for the "master" branch
   #push:
   #  branches: [ "master" ]
