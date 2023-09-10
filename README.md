@@ -99,8 +99,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 - [AngelMunoz - AvaFunc](https://dev.to/tunaxor/desktop-apps-with-avalonia-and-fsharp-4n21) - Desktop Apps with Avalonia and FSharp.
 - [Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - A collection of minimal samples and tutorials.
-- [Avalonia for WPF Developers](https://docs.avaloniaui.net/misc/wpf/) - Quick start for WPF developers.
-- [AvaloniaUI Tutorial](https://docs.avaloniaui.net/guides/basics/) - Official AvaloniaUI tutorial.
+- [Avalonia for WPF Developers](https://docs.avaloniaui.net/docs/next/get-started/wpf/) - Quick start for WPF developers.
+- [AvaloniaUI Tutorial](https://docs.avaloniaui.net/docs/next/tutorials) - Official AvaloniaUI tutorial.
 - [Build Modern Cross-Platform Apps with .NET](https://github.com/mysteryx93/Modern.Net-Tutorial) - Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive and Deployment.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
 - [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
