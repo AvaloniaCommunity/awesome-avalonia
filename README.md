@@ -240,6 +240,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avant Garde](https://github.com/kuiperzone/AvantGarde) - Standalone cross-platform XAML previewer for the C# Avalonia Framework
 - [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) - Modern styles for Avalonia controls.
 - [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
+- [HotAvalonia](https://github.com/Kir-Antipov/HotAvalonia) - Supercharge your Avalonia development experience with hot reload capabilities.
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons and MahApps.Metro.IconPacks.
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
 - [Live.Avalonia](https://github.com/worldbeater/Live.Avalonia) - Live reloading tool for developing Avalonia applications.
