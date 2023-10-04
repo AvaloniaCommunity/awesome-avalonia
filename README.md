@@ -206,6 +206,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
+- [DotNetBrowser](https://teamdev.com/dotnetbrowser/) - Premium Chromium web browser control for Windows, macOS and Linux. 
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
 - [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for avalonia, which used the features of platform.
 
