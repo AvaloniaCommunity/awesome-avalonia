@@ -155,6 +155,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Controls
 
+- [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB and CIELAB color spaces.
