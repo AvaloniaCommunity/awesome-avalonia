@@ -136,7 +136,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### MVVM & MVP & MVU
 
-- [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
+- [Elmish.Avalonia](https://github.com/JordanMarr/Elmish.Avalonia) - MVU applications using F# and Avalonia (with XAML views)
+- [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia (with a view DSL)
 - [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
 - [Markup Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative ui and MVU Pattern in C# for Avalonia UI.
 - [NP.Avalonia.Gidon](https://github.com/npolyak/NP.Avalonia.Gidon) - IoC MVVM framework for Avalonia UI.
