@@ -178,6 +178,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
 - [GMap.NET](https://github.com/judero01col/GMap.NET) - GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest and many more
 - [HyperText](https://github.com/AvaloniaUtils/HyperText.Avalonia) - Control for visualisating and use hypertext.
+- [Iciclecreek.Avalonia.Controls.Media](https://github.com/tomlm/Iciclecreek.Avalonia.Controls.Media) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration with view model and stock mediaplayer controls bindings.
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
 - [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
