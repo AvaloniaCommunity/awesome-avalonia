@@ -202,6 +202,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Games and Game engines
 
+- [AvaloniaTetris](https://github.com/IvanJosipovic/AvaloniaTetris) - A Tetris game written with Avalonia.
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
 - [Estragonia](https://github.com/MrJul/Estragonia) - Integration of Avalonia into the Godot game engine.
 - [Macabre2D](https://github.com/Macabresoft/Macabre2D/) - A game engine built on MonoGame.
