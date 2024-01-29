@@ -168,6 +168,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
 - [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
+- [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) - Custom BottomNavigationBar Sample.
+- [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) Page Transition Mechanism
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
