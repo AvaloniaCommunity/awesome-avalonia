@@ -201,6 +201,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with draggable tabs.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+- [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 
 ### Games and Game engines
 
