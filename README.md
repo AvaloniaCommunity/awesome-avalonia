@@ -164,6 +164,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB and CIELAB color spaces.
+- [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
 - [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
