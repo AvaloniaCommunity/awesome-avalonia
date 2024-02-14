@@ -190,6 +190,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
+- [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
 - [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
