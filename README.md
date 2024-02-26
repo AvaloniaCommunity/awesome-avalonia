@@ -120,6 +120,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, And Side Menu
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
+- [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
