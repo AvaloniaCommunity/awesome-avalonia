@@ -94,6 +94,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
+- [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - A Cross-Platform One-Click Yuzu Mod downloader for Yuzu Game Mods - based around Nintendo Switch Emulation.
 
 ## Tutorials
 
