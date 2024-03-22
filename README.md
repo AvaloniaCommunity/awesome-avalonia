@@ -125,6 +125,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
+- [Dove.Avalonia.Controls.Extensions.ChineseInputSuport](https://github.com/michael-eddy/Avalonia.Extensions/tree/main/Avalonia.Extensions.Chinese) - Chinese input and display support in Avalonia
 
 ### Theme & Icons
 
@@ -205,6 +206,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with draggable tabs.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+- [Dove.Avalonia.Controls.Extensions](https://github.com/michael-eddy/Avalonia.Extensions/tree/main/Avalonia.Extensions.Controls) - Wpf or UWP like controls in Avalonia
 
 ### Games and Game engines
 
