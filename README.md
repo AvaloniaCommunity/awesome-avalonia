@@ -49,14 +49,15 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [asv-drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads and RTK base stations.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
-- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storages.
+- [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
+- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storage's.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
-- [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial crossplatform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
+- [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
-- [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messenging.
+- [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
 - [Jaya](https://github.com/waliarubal/Jaya) - Cross platform file explorer application for Windows, Mac and Linux operating systems.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
@@ -78,6 +79,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [SmartCommander](https://github.com/anovik/SmartCommander) - A cross-platform two-panel desktop file manager.
+- [SourceGit](https://github.com/sourcegit-scm/sourcegit.git) - A cross-platform Git desktop client.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
 - [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
@@ -103,11 +105,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaUI Tutorial](https://docs.avaloniaui.net/docs/next/tutorials) - Official AvaloniaUI tutorial.
 - [Build Modern Cross-Platform Apps with .NET](https://github.com/mysteryx93/Modern.Net-Tutorial) - Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive and Deployment.
 - [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
-- [Full app for begginers](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
+- [Full app for beginners](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for create calculator. Create full app with desing, mvvm, styling.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia
 - [Quickstart](https://docs.avaloniaui.net/docs/getting-started/) - Info for quick start with Avalonia UI.
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
-- [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styleing Avalonia.
+- [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styling Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
 - [Wilderness Labs, Meadow Foundation](https://www.hackster.io/wilderness-labs/run-meadow-within-an-avalonia-application-68371e) - Learn how to get atmospheric data from a BME688 using Meadow Foundation and display its readings on an Avalonia application.
 
@@ -120,6 +122,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, And Side Menu
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
+- [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
@@ -128,19 +131,24 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Theme & Icons
 
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
+- [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications. 
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
+- [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
+- [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach. 
 
 ### MVVM & MVP & MVU
 
-- [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-plattform MVU GUI Applications using F# and Avalonia.
+- [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia (with a view DSL)
 - [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
+- [Markup Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative UI and MVU Pattern in C# for Avalonia UI.
 - [NP.Avalonia.Gidon](https://github.com/npolyak/NP.Avalonia.Gidon) - IoC MVVM framework for Avalonia UI.
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
+- [ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia) - MVU applications using F# and Avalonia (with XAML views)
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/reactiveui/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
 - [ReactiveValidation](https://github.com/Karnah/ReactiveValidation) - Validating properties with messages on UI using fluent-style rules.
@@ -152,29 +160,35 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
 - [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
-- [StockPlot](https://github.com/BizUnity/StockPlot) - A Stcok Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
+- [StockPlot](https://github.com/BizUnity/StockPlot) - A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
 
 ### Controls
 
+- [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB and CIELAB color spaces.
+- [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
 - [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
+- [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) - Custom BottomNavigationBar Sample.
+- [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) Page Transition Mechanism
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
-- [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for avalonia.
+- [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for Avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.  
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
-- [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
+- [EremexControls.NET](https://github.com/Eremex/controls-demo) -  Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
+- [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Extended Controls for Avalonia UI.
 - [FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Fluent Design and WinUi Controls
+- [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
 - [GMap.NET](https://github.com/judero01col/GMap.NET) - GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest and many more
-- [HyperText](https://github.com/AvaloniaUtils/HyperText.Avalonia) - Control for visualisating and use hypertext.
+- [HyperText](https://github.com/AvaloniaUtils/HyperText.Avalonia) - Control for visualising and using hypertext.
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
 - [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
@@ -182,6 +196,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
+- [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
 - [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
@@ -190,13 +205,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
-- [SukiUI](https://github.com/kikipoulet/SukiUI) - Flat design UI Library, Styles and few additional controls
-- [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with draggable tabs.
+- [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
 
 ### Games and Game engines
 
+- [AvaloniaTetris](https://github.com/IvanJosipovic/AvaloniaTetris) - A Tetris game written with Avalonia.
 - [BattleCity](https://github.com/kekekeks/Avalonia.BattleCity) - 2D game stub rendered completely by AvaloniaUI.
 - [Estragonia](https://github.com/MrJul/Estragonia) - Integration of Avalonia into the Godot game engine.
 - [Macabre2D](https://github.com/Macabresoft/Macabre2D/) - A game engine built on MonoGame.
@@ -209,7 +224,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 - [DotNetBrowser](https://teamdev.com/dotnetbrowser/) - Premium Chromium web browser control for Windows, macOS and Linux. 
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
-- [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for avalonia, which used the features of platform.
+- [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for Avalonia, which used the features of platform.
 
 ## Videos
 
@@ -260,7 +275,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Community
 
-- [Bug report](https://github.com/AvaloniaUI/Avalonia/issues) - Github Issues page.
+- [Bug report](https://github.com/AvaloniaUI/Avalonia/issues) - GitHub Issues page.
 - [Gitter Chat](https://gitter.im/AvaloniaUI/Avalonia) - Gitter Chat
 - [StackOverFlow](https://stackoverflow.com/questions/tagged/avaloniaui) - Ask question in Stack Over Flow with `avaloniaui` tag.
 
