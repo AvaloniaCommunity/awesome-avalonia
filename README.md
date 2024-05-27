@@ -83,6 +83,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
 - [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
+- [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
 - [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
