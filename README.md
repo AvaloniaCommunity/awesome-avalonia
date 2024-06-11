@@ -144,6 +144,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### MVVM & MVP & MVU
 
+- [Epoxy](https://github.com/kekyo/Epoxy) - Easy, simplicity and minimulism multi-platform MVVM library.
 - [FuncUI](https://github.com/AvaloniaCommunity/Avalonia.FuncUI) - Develop cross-platform MVU GUI Applications using F# and Avalonia (with a view DSL)
 - [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
 - [Markup Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative UI and MVU Pattern in C# for Avalonia UI.
