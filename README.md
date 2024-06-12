@@ -55,7 +55,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
-- [Floor](https://aloneguid.github.io/parquet-dotnet/parquet-floor.html) - Floor is a reference implementation of the desktop application to view Apache Parquet files.
+- [Parquet Floor](https://github.com/aloneguid/parquet-dotnet) - Floor is a reference implementation of the desktop application to view Apache Parquet files.
 - [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
