@@ -42,60 +42,89 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Samples and Projects
 
-- [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) - Plays music in 432hz.
+### Audio and Music
+
 - [432hz Batch Converter](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Batch-Converter) - Converts and re-encodes music to 432hz.
-- [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
+- [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) - Plays music in 432hz.
 - [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, cross-platform soundboard, available for Windows, Linux, and MacOS.
-- [asv-drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads and RTK base stations.
-- [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
-- [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
-- [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
-- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storage's.
-- [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
-- [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
-- [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
-- [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
-- [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
-- [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
-- [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
-- [Jaya](https://github.com/waliarubal/Jaya) - Cross platform file explorer application for Windows, Mac and Linux operating systems.
-- [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
-- [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
-- [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
-- [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
-- [ModularDoc](https://github.com/hailstorm75/ModularDoc) - Modular documentation generator for .NET libraries. Currently supporting Markdown only for GitHub, GitLab, and Bitbucket.
-- [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
-- [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
-- [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
-- [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
+- [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
-- [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
-- [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
-- [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
-- [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
-- [Radish](https://github.com/x2bool/radish) - Cross-platform desktop client designed exclusively for Redis
-- [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world
-- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-- [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
-- [SourceGit](https://github.com/sourcegit-scm/sourcegit.git) - A cross-platform Git desktop client.
-- [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
-- [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
-- [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
-- [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
-- [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
-- [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
-- [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level
-- [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
-- [UVtools](https://github.com/sn4k3/UVtools) - A Cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV
-- [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and MacOS.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
 - [Xune](https://github.com/VitalElement/Xune) - A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.
+
+### Communication
+
+- [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
+- [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
+- [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
+- [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
+
+### Documents
+
+- [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
+- [ModularDoc](https://github.com/hailstorm75/ModularDoc) - Modular documentation generator for .NET libraries. Currently supporting Markdown only for GitHub, GitLab, and Bitbucket.
+
+### Data Transfer
+
+- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storage.
+- [Jaya](https://github.com/waliarubal/Jaya) - Cross platform file explorer application for Windows, Mac and Linux operating systems.
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue
+
+### Finance
+
+- [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross platform using Avalonia UI.
+- [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and Mac. Built-in Tor, CoinJoin, and coin control features.
+
+### Gaming
+
+- [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
+- [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
+- [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world
+
+### Graphics
+
+- [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
+- [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
+- [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
+- [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
+- [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
+
+### Note Taking
+
+- [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
+- [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
+- [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
+
+### Software Development
+
 - [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
-- [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader
+- [asv-drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads and RTK base stations.
+- [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
+- [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
+- [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
+- [FVim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
+- [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
+- [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
+- [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
+- [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
+- [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
+- [Radish](https://github.com/x2bool/radish) - Cross-platform desktop client designed exclusively for Redis
+- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+- [SourceGit](https://github.com/sourcegit-scm/sourcegit.git) - A cross-platform Git desktop client.
+- [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
+- [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
+- [UVtools](https://github.com/sn4k3/UVtools) - A Cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV
+
+### Other
+
+- [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
+- [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
+- [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
+- [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
+- [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader
 
 ## Tutorials
 
