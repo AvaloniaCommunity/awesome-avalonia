@@ -161,12 +161,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, And Side Menu
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
-- [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
-- [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
-- [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 
 ### Theme & Icons
 
@@ -205,6 +202,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [StockPlot](https://github.com/BizUnity/StockPlot) - A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
 
 ### Controls
+
+#### Docking Layout
+
+- [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
+- [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 
 #### Document Viewers
 
@@ -258,8 +260,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
-- [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+- [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 
 ### Games and Game engines
 
