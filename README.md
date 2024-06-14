@@ -59,6 +59,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
 - [Jaya](https://github.com/waliarubal/Jaya) - Cross platform file explorer application for Windows, Mac and Linux operating systems.
+- [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross platform IP scanner application.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
