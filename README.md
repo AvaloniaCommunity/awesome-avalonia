@@ -72,6 +72,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Documents
 
+- [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
 - [ModularDoc](https://github.com/hailstorm75/ModularDoc) - Modular documentation generator for .NET libraries. Currently supporting Markdown only for GitHub, GitLab, and Bitbucket.
 
@@ -108,7 +109,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Software Development
 
-- [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation
 - [asv-drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads and RTK base stations.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell.
@@ -126,7 +126,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A Cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV
-- 
+
 ### Other
 
 - [Let it snow](https://github.com/ptupitsyn/let-it-snow) - .NET Core Avalonia UI Snow Demo.
@@ -161,12 +161,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, And Side Menu
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
-- [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
-- [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
-- [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 
 ### Theme & Icons
 
@@ -206,6 +203,28 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Controls
 
+#### Docking Layout
+
+- [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
+- [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
+
+#### Document Viewers
+
+- [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
+- [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
+- [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications
+- [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
+
+#### Media Players
+
+- [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
+- [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
+- [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
+- [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
+- [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
+
+#### UI Libraries
+
 - [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
@@ -213,7 +232,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
-- [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
 - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) - Custom BottomNavigationBar Sample.
 - [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) Page Transition Mechanism
@@ -228,30 +246,22 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [EremexControls.NET](https://github.com/Eremex/controls-demo) -  Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Extended Controls for Avalonia UI.
 - [FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Fluent Design and WinUi Controls
-- [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
 - [GMap.NET](https://github.com/judero01col/GMap.NET) - GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest and many more
 - [HyperText](https://github.com/AvaloniaUtils/HyperText.Avalonia) - Control for visualising and using hypertext.
 - [JamSoft.AvaloniaUI.Dialogs](https://github.com/jamsoft/JamSoft.AvaloniaUI.Dialogs) - An MVVM dialog service, allows custom views, file dialogs  and includes a complete multistep Wizard Control.
 - [JamSoft.AvaloniaUI.Lcd](https://www.nuget.org/packages/JamSoft.AvaloniaUI.Lcd#readme-body-tab) - A highly configurable animated segmented LCD control.
-- [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Mediaplayer SDK for .NET with Avalonia integration.
-- [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
-- [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
-- [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
-- [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multiplatform .NET bindings for [MuPDF](https://mupdf.com/)
 - [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
 - [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
-- [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications
-- [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
-- [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect using.
+- [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
-- [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid and cursor images
+- [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
 
 ### Games and Game engines
 
@@ -265,7 +275,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Web Browsers
 
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
-- [CefNet](https://github.com/CefNet/CefNet) - .NET binding for the Chromium Embedded Framework (CEF).
 - [DotNetBrowser](https://teamdev.com/dotnetbrowser/) - Premium Chromium web browser control for Windows, macOS and Linux. 
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
 - [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for Avalonia, which used the features of platform.
