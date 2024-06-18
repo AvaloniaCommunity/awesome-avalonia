@@ -101,9 +101,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
 
-### Note Taking
+### Productivity
 
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
+- [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 
