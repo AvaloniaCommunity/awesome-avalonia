@@ -201,6 +201,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
 - [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET
 - [StockPlot](https://github.com/BizUnity/StockPlot) - A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
+- [TeeChart](https://github.com/Steema/TeeChart-Avalonia-Samples) - Versatile native .NET Charting, Map and Gauge control.
 
 ### Controls
 
