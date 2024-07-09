@@ -179,6 +179,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach.
+- [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 
 ### MVVM & MVP & MVU
 
