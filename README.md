@@ -140,6 +140,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and MacOS.
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader
+- [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic](https://komiic.com)
 
 ## Tutorials
 
