@@ -196,6 +196,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/reactiveui/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
 - [ReactiveValidation](https://github.com/Karnah/ReactiveValidation) - Validating properties with messages on UI using fluent-style rules.
+- [Stylet.Avalonia](https://github.com/sealoyal2018/stylet.avalonia) - A very lightweight but powerful ViewModel-First MVVM framework for Avalonia, inspired by Caliburn.Micro.
 
 ### Charts & Plots & Diagrams
 
