@@ -120,6 +120,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
 - [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross platform IP scanner application.
+- [MatoEditor](https://github.com/CoolCoolTomato/MatoEditor) - A beautiful markdown editor.
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [Parquet Floor](https://github.com/aloneguid/parquet-dotnet) - Floor is a reference implementation of the desktop application to view Apache Parquet files.
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
