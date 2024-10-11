@@ -27,6 +27,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
   - [Tutorials](#tutorials)
   - [Libraries & Extensions](#libraries--extensions)
     - [Generic](#generic)
+    - [Localization / Translation / i19n](#localization--translation--i18n)
     - [Theme & Icons](#theme--icons)
     - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
     - [Charts & Plots & Diagrams](#charts--plots--diagrams)
