@@ -171,6 +171,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
+### Localization / Translation / i18n
+- [Echoes](https://github.com/Voyonic-Systems/Echoes) - simple type safe translations library
+
 ### Theme & Icons
 
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
