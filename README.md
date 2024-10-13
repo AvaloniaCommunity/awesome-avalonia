@@ -59,6 +59,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) - Plays music in 432hz.
 - [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, cross-platform soundboard, available for Windows, Linux, and MacOS.
 - [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
+- [OpenPhonos](https://github.com/amp64/openphonos) - A cross-platform Sonos app built with Avalonia.
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
 - [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
