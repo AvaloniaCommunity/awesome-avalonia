@@ -91,9 +91,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Gaming
 
+- [BuildLauncher](https://github.com/fgsfds/BuildLauncher) - Launcher and mods downloader for Build Engine games.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world
+- [Steam Superheater](https://github.com/fgsfds/Steam-Superheater) - Fixes downloader for Steam games.
 
 ### Graphics
 
