@@ -98,6 +98,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Steam Superheater](https://github.com/fgsfds/Steam-Superheater) - Fixes downloader for Steam games.
 
 ### Graphics
+
 - [Beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
