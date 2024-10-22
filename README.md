@@ -99,6 +99,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Graphics
 
+- [Beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
