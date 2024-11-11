@@ -254,6 +254,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
+- [AvaloniaHex](https://github.com/Washi1337/AvaloniaHex) - A hex editor control for Avalonia.
 - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) - Custom BottomNavigationBar Sample.
 - [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) Page Transition Mechanism
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
