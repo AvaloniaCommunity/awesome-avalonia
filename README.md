@@ -132,6 +132,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
 - [Radish](https://github.com/x2bool/radish) - Cross-platform desktop client designed exclusively for Redis
+- [RestApia Client](https://www.restapia.app/pages/features/code-driven) - Flex your coding skills while building API requests, and enjoy full flexibility without form-based hassles
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 - [SourceGit](https://github.com/sourcegit-scm/sourcegit.git) - A cross-platform Git desktop client.
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
