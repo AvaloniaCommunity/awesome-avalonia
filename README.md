@@ -187,18 +187,19 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 ### Theme & Icons
 
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
+- [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 - [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications.
 - [Clasic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) - Classic Windows 9x-like theme and controls for Avalonia.
+- [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
 - [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
+- [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design
 - [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
-- [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
+- [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
-- [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach.
-- [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 
 ### MVVM & MVP & MVU
 
