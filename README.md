@@ -63,6 +63,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
 - [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia
+- [xquartz](https://gitlab.com/galahadd/xquartz) - Cross-platform, modern, minimalistic, intuitive, simple music player
 - [Xune](https://github.com/VitalElement/Xune) - A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.
 
 ### Communication
