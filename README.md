@@ -355,6 +355,8 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## E-Books
 
+- [AvaloniaUI - Applicazioni Desktop Multipiattaform in C#](http://robertobandiera.altervista.org/LibroAvaloniaUI/) - AvaloniaUI book by [Roberto Bandiera](http://robertobandiera.altervista.org/) (italian language).
+
 ## Courses
 
 ## Community
