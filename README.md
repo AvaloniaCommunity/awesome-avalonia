@@ -107,6 +107,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees
 - [Xamlade](https://github.com/ComradeAkei/Xamlade) - Visual Avalonia UI XAML editor.
+- [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11. 
 
 ### Productivity
 
