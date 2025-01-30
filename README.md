@@ -234,6 +234,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
+- [Avalonia Monogame Dock Template](https://github.com/vilten/Avalonia-Monogame-Dock-Template) - A Monogame engine with docking template, to create your own graphic desktop software.
 
 #### Document Viewers
 
