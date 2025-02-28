@@ -68,6 +68,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Communication
 
+- [Convobox](https://github.com/timkicker/convobox) - A cross-platform, self-hostable chat client and server with encryption, multi-server support, and theming.
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI and Avalonia.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross platform, modular client for GroupMe messaging.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross platform desktop twitter client. It's minimal design mimics gadget style applications.
