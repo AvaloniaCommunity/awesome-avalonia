@@ -282,6 +282,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [JamSoft.AvaloniaUI.Lcd](https://www.nuget.org/packages/JamSoft.AvaloniaUI.Lcd#readme-body-tab) - A highly configurable animated segmented LCD control.
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
+- [MvvmNavigation](https://github.com/Egor92/MvvmNavigation) - MVVM friendly library for easy navigation management in Avalonia applications.
 - [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 - [NodifyAvalonia](https://github.com/BAndysc/nodify-avalonia) - Highly performant and modular controls for node-based editors designed for data-binding and MVVM. 1-1 port of WPF's version.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
