@@ -310,7 +310,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [DotNetBrowser](https://teamdev.com/dotnetbrowser/) - Premium Chromium web browser control for Windows, macOS and Linux. 
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully featured Avalonia WebView Control.
-- [Avalonia BlazorWebView & Avalonia WebView](https://github.com/MicroSugarDeveloperOrg/Avalonia.WebView) - Native host webview for Avalonia, which used the features of platform.
 
 ## Videos
 
@@ -318,10 +317,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Nikita Tsukanov - Framebuffer](https://www.youtube.com/watch?v=NkTPfBfDmtA) - AvaloniaUI running without X server on top of /dev/fb0 and libevdev2.
 - [Nikita Tsukanov - XAML-oriented](https://www.youtube.com/watch?v=DLHhZJkSqWk) - Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework.
 - [VNC Server](https://www.youtube.com/watch?v=HAyHIvSzweM) - Avalonia acting as a VNC server
-- [Wiesław Šoltés - Dock](https://www.youtube.com/watch?v=KHH23BFgU30) - Dock - docking layout system for Avalonia applications - docking between windows.
-- [Wiesław Šoltés - Draw2D and Svg](https://www.youtube.com/watch?v=6hnVwWOeOt8) - Svg.Skia an SVG rendering library AvaloniaUI demo.
-- [Wiesław Šoltés - Svg](https://www.youtube.com/watch?v=UHmlfBMq6W4) - Avalonia SVG image support.
-- [Wiesław Šoltés - Theme Manager](https://www.youtube.com/watch?v=btsaMx9rI_I) - AvaloniaUI Theme Manager.
 - [World of Zero - Hello World](https://www.youtube.com/watch?v=rho26Ik30D4) - A Cross Platform .NET UI Framework - Hello World in Avalonia UI.
 
 ## Articles
