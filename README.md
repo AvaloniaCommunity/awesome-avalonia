@@ -1,12 +1,12 @@
 # Awesome-Avalonia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com/)
 
-[Avalonia](https://github.com/AvaloniaUI/Avalonia) is a cross-platform XAML Framework for the .NET ecosystem
+[Avalonia](https://github.com/AvaloniaUI/Avalonia) is a cross-platform XAML Framework for the .NET ecosystem.
 
 [<img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" align="right" width="100">](https://avaloniaui.net/)
 
 A curated list of **Awesome** Avalonia libraries and resources.
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AvaloniaCommunity/awesome-avalonia/blob/master/CONTRIBUTING.md) pages first.
+Contributions are always welcome! Please take a look at the [Contribution Guidelines](https://github.com/AvaloniaCommunity/awesome-avalonia/blob/master/CONTRIBUTING.md) page first.
 
 ## Content
 
@@ -119,7 +119,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ### Software Development
 
-- [asv-drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
+- [Asv.Drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy).
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross-platform IDE and Shell.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
@@ -273,7 +273,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
-- [EremexControls.NET](https://github.com/Eremex/controls-demo) -  Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
+- [EremexControls.NET](https://github.com/Eremex/controls-demo) - Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Extended Controls for Avalonia UI.
 - [FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Fluent Design and WinUi Controls.
 - [GMap.NET](https://github.com/judero01col/GMap.NET) - GMap.NET Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest, and many more.
