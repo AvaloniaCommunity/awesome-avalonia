@@ -70,6 +70,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 - [Egram](https://github.com/egramtel/egram.tel) - Egram is an unofficial cross-platform Telegram client written in C#, .NET Core, ReactiveUI, and Avalonia.
 - [GroupMe Desktop Client](https://github.com/alexdillon/GroupMeClientAvalonia) - GroupMe Desktop Client Avalonia is an open-source, cross-platform, modular client for GroupMe messaging.
+- [Laney](https://github.com/Elorucov/Laney-Avalonia) - An unofficial cross-platform client for VK Messenger written in C#, .NET and Avalonia.
 - [Loon](https://github.com/mike-ward/Loon) - Loon is a cross-platform desktop twitter client. It's minimal design mimics gadget style applications.
 - [SkillChat](https://github.com/SkillChat/SkillChat) - A cross-platform open-source messenger with real-time chat, sending files, receiving notifications, and the ability to deploy on a private server.
 
