@@ -10,7 +10,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## Content
 
-- [Awesome-Avalonia](#awesome-avalonia)
+- [Awesome-Avalonia ](#awesome-avalonia-)
   - [Content](#content)
   - [General](#general)
   - [Samples and Projects](#samples-and-projects)
@@ -25,13 +25,17 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
     - [Software Development](#software-development)
     - [Other](#other)
   - [Tutorials](#tutorials)
-  - [Libraries & Extensions](#libraries--extensions)
+  - [Libraries \& Extensions](#libraries--extensions)
     - [Generic](#generic)
-    - [Localization / Translation / i19n](#localization--translation--i18n)
-    - [Theme & Icons](#theme--icons)
-    - [MVVM & MVP & MVU](#mvvm--mvp--mvu)
-    - [Charts & Plots & Diagrams](#charts--plots--diagrams)
+    - [Localization / Translation / i18n](#localization--translation--i18n)
+    - [Theme \& Icons](#theme--icons)
+    - [MVVM \& MVP \& MVU](#mvvm--mvp--mvu)
+    - [Charts \& Plots \& Diagrams](#charts--plots--diagrams)
     - [Controls](#controls)
+      - [Docking Layout](#docking-layout)
+      - [Document Viewers](#document-viewers)
+      - [Media Players](#media-players)
+      - [UI Libraries](#ui-libraries)
     - [Games and Game engines](#games-and-game-engines)
     - [Web Browsers](#web-browsers)
   - [Videos](#videos)
@@ -205,6 +209,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
+- [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach.
 
 ### MVVM & MVP & MVU
