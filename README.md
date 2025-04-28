@@ -252,6 +252,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Media Players
 
+- [Avalonia Accelerate](https://avaloniaui.net/accelerate#mediaplayer) - A premium Media Player control, developed by the team behind Avalonia.
 - [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
 - [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Media Player SDK for .NET with Avalonia integration.
@@ -314,6 +315,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Web Browsers
 
+- [Avalonia Accelerate](https://avaloniaui.net/accelerate#webview) - A premium Web View control, developed by the team behind Avalonia.
 - [CefGlue](https://github.com/OutSystems/CefGlue) - .NET/Mono binding for The Chromium Embedded Framework (CEF).
 - [DotNetBrowser](https://teamdev.com/dotnetbrowser/) - Premium Chromium web browser control for Windows, Linux, and macOS.
 - [OutSystems WebView](https://github.com/OutSystems/WebView) - Fully-featured Avalonia WebView Control.
@@ -340,6 +342,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## Tooling
 
+- [Avalonia Accelerate - Dev Tools](https://avaloniaui.net/accelerate#devtools) - Enhanced Developer Tools with advanced inspection, diagnostics, and debugging features.
 - [Avalonia Material Icon Pack](https://github.com/aboimpinto/MaterialDesign.Avalonia) - All Material Icons Pack that can be found in https://fonts.google.com/icons (net5.0 only).
 - [Avalonia Toolkit](https://github.com/rabbitism/AvaloniaToolkit) - Visual Studio Extension to generate boilerplate Avalonia related code.
 - [Avant Garde](https://github.com/kuiperzone/AvantGarde) - Standalone cross-platform XAML previewer for the C# Avalonia Framework.
