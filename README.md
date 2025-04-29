@@ -128,6 +128,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Asv.Drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy).
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross-platform IDE and Shell.
+- [BlitzSearch](http://github.com/natestah/blitzSearch) - Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [DevTools for Avalonia](https://www.devtools.nlnet.net) - A third-party interface debugging functionality for Avalonia, providing user-friendly and rich debugging features.
 - [FVim](https://github.com/yatli/fvim) - Cross-platform Neovim front-end UI, built with F# + Avalonia.
@@ -146,7 +147,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
-- [BlitzSearch](http://github.com/natestah/blitzSearch) - Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.
 
 ### Other
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
