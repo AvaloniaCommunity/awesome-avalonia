@@ -1,4 +1,4 @@
-# Awesome-Avalonia [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com/)
+# Awesome-Avalonia
 
 [Avalonia](https://github.com/AvaloniaUI/Avalonia) is a cross-platform XAML Framework for the .NET ecosystem.
 
@@ -86,14 +86,14 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Data Transfer
 
-- [Camelotia](https://github.com/worldbeater/Camelotia) - Cross-platform demo file manager for cloud storage.
+- [Camelotia](https://github.com/reactiveui/Camelotia) - Cross-platform demo file manager for cloud storage.
 - [Jaya](https://github.com/waliarubal/Jaya) - Cross-platform file explorer application for Windows, Linux, and macOS operating systems.
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue.
 
 ### Finance
 
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross-platform using Avalonia UI.
-- [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
+- [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
 
 ### Gaming
 
@@ -143,7 +143,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Radish](https://github.com/x2bool/radish) - Cross-platform desktop client designed exclusively for Redis.
 - [RestApia Client](https://www.restapia.app/pages/features/code-driven) - Flex your coding skills while building API requests, and enjoy full flexibility without form-based hassles
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit.
-- [SourceGit](https://github.com/sourcegit-scm/sourcegit.git) - A cross-platform Git desktop client.
+- [SourceGit](https://github.com/sourcegit-scm/sourcegit) - A cross-platform Git desktop client.
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
@@ -167,11 +167,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Avalonia for WPF Developers](https://docs.avaloniaui.net/docs/next/get-started/wpf/) - Quick start for WPF developers.
 - [AvaloniaUI Tutorial](https://docs.avaloniaui.net/docs/next/tutorials) - Official AvaloniaUI tutorial.
 - [Build Modern Cross-Platform Apps with .NET](https://github.com/mysteryx93/Modern.Net-Tutorial) - Covers all areas of development: Avalonia, Dependency Injection, MVVM, Unit Testing, Reactive, and Deployment.
-- [First App Tutorial](https://habr.com/en/post/470101/) - Quick tutorial for creating your first app.
+- [First App Tutorial](https://habr.com/en/articles/470101/) - Quick tutorial for creating your first app.
 - [Full App for Beginners](https://medium.com/@f98f96/avaloniaui-for-beginners-lets-go-624683372c06) - Tutorial for creating a calculator. Create a full app with design, MVVM, and styling.
 - [macOS Sparkle Updates](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - Example on using the popular [Sparkle](https://github.com/sparkle-project/Sparkle) library in Avalonia.
 - [Quickstart](https://docs.avaloniaui.net/docs/getting-started/) - Info for quick start with Avalonia UI.
-- [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/post/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
+- [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/articles/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styling Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
 - [Wilderness Labs, Meadow Foundation](https://www.hackster.io/wilderness-labs/run-meadow-within-an-avalonia-application-68371e) - Learn how to get atmospheric data from a BME688 using Meadow Foundation and display its readings on an Avalonia application.
@@ -233,7 +233,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .NET.
 - [Microcharts](https://github.com/AvaloniaCommunity/Avalonia.Microcharts) - A simple Avalonia only port of the Microcharts library.
 - [OxyPlot](https://github.com/oxyplot/oxyplot-avalonia) - A cross-platform plotting library for .NET.
-- [ScottPlot](https://github.com/swharden/ScottPlot) - Interactive Plotting Library for .NET.
+- [ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive Plotting Library for .NET.
 - [StockPlot](https://github.com/BizUnity/StockPlot) - A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
 - [TeeChart](https://github.com/Steema/TeeChart-Avalonia-Samples) - Versatile native .NET Charting, Map, and Gauge control.
 
@@ -254,7 +254,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 #### Media Players
 
 - [Avalonia Accelerate](https://avaloniaui.net/accelerate#mediaplayer) - A premium Media Player control, developed by the team behind Avalonia.
-- [AvaloniaGif](https://github.com/AvaloniaUI/AvaloniaGif) - Purely C# GIF decoder and animation library.
+- [AvaloniaGif](https://github.com/AvaloniaUI/Avalonia.GIF) - Purely C# GIF decoder and animation library.
 - [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Media Player SDK for .NET with Avalonia integration.
 - [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
@@ -273,8 +273,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
 - [AvaloniaHex](https://github.com/Washi1337/AvaloniaHex) - A hex editor control for Avalonia.
-- [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) - Custom BottomNavigationBar Sample.
-- [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - [AvaloniaNavigationBar](https://github.com/lukewire129/AvaloniaNavigationBar) Page Transition Mechanism.
+- [AvaloniaNavigationBar](https://github.com/lukewire129/navigationbar-avaloniaui) - Custom BottomNavigationBar Sample.
+- [AvaloniaNavigationPage](https://github.com/lukewire129/AvaloniaNavigationPage) - Page Transition Mechanism.
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing).
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for Avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
@@ -333,7 +333,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ## Articles
 
 - [Artyom Gorchakov in The Startup - A Cross-Platform GUI Theme for Desktop .NET Core Applications](https://medium.com/swlh/cross-platform-gui-for-dotnet-applications-bbd284709600) - Getting started with building awesome cross-platform user interfaces with Avalonia framework and a modern UI theme.
-- [Hanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/WhatWouldACrossplatformNETUIFrameworkLookLikeExploringAvalonia.aspx) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
+- [Hanselman - Cross-platform .NET UI Framework](https://www.hanselman.com/blog/what-would-a-crossplatform-net-ui-framework-look-like-exploring-avalonia) - What would a cross-platform .NET UI Framework look like? Exploring Avalonia.
 - [idiwork - Cross-platform apps with XAML](https://www.idiwork.com/avalonia-a-big-candidate-to-create-crossplatform-apps-with-xaml/) - Avalonia, a big candidate to create cross-platform apps with XAML.
 
 ## Podcasts
