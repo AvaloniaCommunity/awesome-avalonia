@@ -266,6 +266,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI.
 - [AtomUI](https://github.com/chinware/AtomUI) - AtomUI is an implementation of Ant Design based on Avalonia/.NET technology, and is committed to bringing Ant Design's excellent and efficient design language and experience to the Avalonia/.NET cross-platform desktop software development field.
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
+- [AvaloniaCalendarView](https://github.com/eugenenoble2005/avaloniacalendarview) - Editable month view, week view and day view calendar control for Avalonia.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB, and CIELAB color spaces.
 - [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
