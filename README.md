@@ -291,6 +291,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [JamSoft.AvaloniaUI.Dialogs](https://github.com/jamsoft/JamSoft.AvaloniaUI.Dialogs) - An MVVM dialog service. Allows custom views, file dialogs, and includes a complete multistep Wizard Control.
 - [JamSoft.AvaloniaUI.Lcd](https://www.nuget.org/packages/JamSoft.AvaloniaUI.Lcd#readme-body-tab) - A highly configurable animated segmented LCD control.
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
+- [ModelUI](https://github.com/uxmanz/ModelUI) - Actipro Avalonia UI jumpstart application for elegant cross-platform development.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MvvmNavigation](https://github.com/Egor92/MvvmNavigation) - MVVM friendly library for easy navigation management in Avalonia applications.
 - [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
