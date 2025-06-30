@@ -201,6 +201,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications.
 - [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) - Classic Windows 9x-like theme and controls for Avalonia.
 - [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
+- [Huskui.Avalonia](https://github.com/d3ara1n/Huskui.Avalonia) - A modern, elegant UI component library inspired by [ParkUI](https://park-ui.com/) and using the [Radix Colors](https://www.radix-ui.com/colors) palette.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
 - [Lucide.Avalonia](https://github.com/dme-compunet/Lucide.Avalonia) - Implementation of the Lucide icon library for AvaloniaUI.
 - [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
@@ -212,7 +213,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach.
-- [Huskui.Avalonia](https://github.com/d3ara1n/Huskui.Avalonia) - A modern, elegant UI component library inspired by [ParkUI](https://park-ui.com/) and using the [Radix Colors](https://www.radix-ui.com/colors) palette.
 
 ### MVVM & MVP & MVU
 
