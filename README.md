@@ -200,6 +200,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 - [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications.
 - [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) - Classic Windows 9x-like theme and controls for Avalonia.
+- [Devolutions Avalonia-Extensions](https://github.com/Devolutions/avalonia-extensions) - Avalonia Themes for a MacOS or DevExpress look.
 - [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 - [Huskui.Avalonia](https://github.com/d3ara1n/Huskui.Avalonia) - A modern, elegant UI component library inspired by [ParkUI](https://park-ui.com/) and using the [Radix Colors](https://www.radix-ui.com/colors) palette.
 - [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
