@@ -174,7 +174,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Saving Routing State with ReactiveUI and Avalonia](https://habr.com/en/articles/462307/) - For better UX, your app should be capable of saving state to the disk when the app is suspending and of restoring state when the app is resuming.
 - [Styles in Avalonia](https://habr.com/en/post/471342/) - Quick start for styling Avalonia.
 - [SuperJMN - IoT LedBar](https://github.com/SuperJMN/Avalonia-IoT-LedBar) - AvaloniaUI IoT LED Bar sample.
-- [Wilderness Labs, Meadow Foundation](https://www.hackster.io/wilderness-labs/run-meadow-within-an-avalonia-application-68371e) - Learn how to get atmospheric data from a BME688 using Meadow Foundation and display its readings on an Avalonia application.
+- [Wilderness Labs, Meadow Foundation](https://www.hackster.io/wilderness-labs/run-meadow-within-an-avalonia-application-68371e) - Learn how to get atmospheric data from a BME688 using Meadow Foundation and display its readings on an Avalonia application.  
+- [AvaloniaSamples](https://github.com/bodong1987/AvaloniaSamples) - Some simple examples are used to demonstrate features such as localization, dynamically adjusting application themes, implementing Visual Studio style title bars, using data validation, etc.
 
 ## Libraries & Extensions
 
