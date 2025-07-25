@@ -248,6 +248,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Document Viewers
 
+- [LiveMarkdown.Avalonia](https://github.com/DearVa/LiveMarkdown.Avalonia) - High performance, real-time markdown renderer for Avalonia.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multi-platform .NET bindings for [MuPDF](https://mupdf.com/).
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications.
