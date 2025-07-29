@@ -214,6 +214,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
 - [SukiUI](https://github.com/kikipoulet/SukiUI) - Avalonia UI Library with a flat design approach.
+- [WPFDarkTheme](https://github.com/AngryCarrot789/WPFDarkTheme) - A configurable compact soft dark theme for standard Avalonia and WPF controls.
 
 ### MVVM & MVP & MVU
 
