@@ -118,6 +118,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Productivity
 
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
+- [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
@@ -250,6 +251,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Document Viewers
 
+- [LiveMarkdown.Avalonia](https://github.com/DearVa/LiveMarkdown.Avalonia) - High performance, real-time markdown renderer for Avalonia.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multi-platform .NET bindings for [MuPDF](https://mupdf.com/).
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications.
