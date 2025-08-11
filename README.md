@@ -296,6 +296,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [HyperText](https://github.com/AvaloniaUtils/HyperText.Avalonia) - Control for visualizing and using hypertext.
 - [JamSoft.AvaloniaUI.Dialogs](https://github.com/jamsoft/JamSoft.AvaloniaUI.Dialogs) - An MVVM dialog service. Allows custom views, file dialogs, and includes a complete multistep Wizard Control.
 - [JamSoft.AvaloniaUI.Lcd](https://www.nuget.org/packages/JamSoft.AvaloniaUI.Lcd#readme-body-tab) - A highly configurable animated segmented LCD control.
+- [LiquidGlassAvaloniaUI](https://github.com/KaranocaVe/LiquidGlassAvaloniaUI) - Implemented a control similar to Apple's LiquidGlass.
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MvvmNavigation](https://github.com/Egor92/MvvmNavigation) - MVVM friendly library for easy navigation management in Avalonia applications.
