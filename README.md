@@ -246,6 +246,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Docking Layout
 
+- [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 
@@ -287,7 +288,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
-- [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
 - [EremexControls.NET](https://github.com/Eremex/controls-demo) - Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Extended Controls for Avalonia UI.
