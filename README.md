@@ -191,6 +191,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
+- [Avae.Browser.Essentials](https://github.com/cedric56/Avae.Browser.Essentials) - Port of Microsoft.Maui.Essentials for browser.
+- [Avae.macOS.Essentials](https://github.com/cedric56/Avae.macOS.Essentials) - Port of Microsoft.Maui.Essentials for macOS.
 
 ### Localization / Translation / i18n
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
