@@ -182,6 +182,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Generic
 
 - [AsyncImageLoader.Avalonia](https://github.com/AvaloniaUtils/AsyncImageLoader.Avalonia) - Provides asynchronous bitmap loading from web for Avalonia Image control and more.
+- [Avae.Browser.Essentials](https://github.com/cedric56/Avae.Browser.Essentials) - Port of Microsoft.Maui.Essentials for browser.
+- [Avae.macOS.Essentials](https://github.com/cedric56/Avae.macOS.Essentials) - Port of Microsoft.Maui.Essentials for macOS.
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, and Side Menu.
 - [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) - Library to bring AdMob advertisements to Avalonia mobile projects.
