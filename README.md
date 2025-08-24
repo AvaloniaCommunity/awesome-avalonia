@@ -182,6 +182,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Generic
 
 - [AsyncImageLoader.Avalonia](https://github.com/AvaloniaUtils/AsyncImageLoader.Avalonia) - Provides asynchronous bitmap loading from web for Avalonia Image control and more.
+- [Avae.Browser.Essentials](https://github.com/cedric56/Avae.Browser.Essentials) - Port of Microsoft.Maui.Essentials for browser.
+- [Avae.macOS.Essentials](https://github.com/cedric56/Avae.macOS.Essentials) - Port of Microsoft.Maui.Essentials for macOS.
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, and Side Menu.
 - [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) - Library to bring AdMob advertisements to Avalonia mobile projects.
@@ -246,6 +248,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Docking Layout
 
+- [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
 
@@ -287,7 +290,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
-- [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
 - [EremexControls.NET](https://github.com/Eremex/controls-demo) - Commercial UI controls for the cross-platform Avalonia UI framework to help you deliver cutting-edge applications with enhanced UX.
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Extended Controls for Avalonia UI.
@@ -297,6 +299,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [JamSoft.AvaloniaUI.Dialogs](https://github.com/jamsoft/JamSoft.AvaloniaUI.Dialogs) - An MVVM dialog service. Allows custom views, file dialogs, and includes a complete multistep Wizard Control.
 - [JamSoft.AvaloniaUI.Lcd](https://www.nuget.org/packages/JamSoft.AvaloniaUI.Lcd#readme-body-tab) - A highly configurable animated segmented LCD control.
 - [Jc.PopupView.Avalonia](https://github.com/jcsawyer/Jc.PopupView.Avalonia) - Beautiful, animated toasts, alerts, and other popups for Avalonia UI.
+- [LiquidGlassAvaloniaUI](https://github.com/KaranocaVe/LiquidGlassAvaloniaUI) - Implemented a control similar to Apple's LiquidGlass
 - [MessageBox.Avalonia](https://github.com/AvaloniaCommunity/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
 - [Movere](https://github.com/jp2masa/Movere) - Movere is an implementation of managed dialogs for Avalonia.
 - [MvvmNavigation](https://github.com/Egor92/MvvmNavigation) - MVVM friendly library for easy navigation management in Avalonia applications.
