@@ -187,11 +187,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, and Side Menu.
 - [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) - Library to bring AdMob advertisements to Avalonia mobile projects.
-- [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
 - [Lemon.Hosting.Avaloniaui](https://github.com/NeverMorewd/Hosting.Avaloniaui) - A lightweight module navigation framework built on top of the Microsoft Dependency Injection (MSDI) for AvaloniaUI.
 - [Lemon.ModuleNavigation](https://github.com/NeverMorewd/Lemon.ModuleNavigation) - .NET Generic Host support for Avaloniaui app.
 - [Nlnet.Avalonia.Css](https://github.com/liwuqingxin/Avalonia.Css) - A library for Avalonia to write styles like CSS.
 - [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
+- [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
