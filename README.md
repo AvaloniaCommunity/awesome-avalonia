@@ -271,6 +271,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [LibVLCSharp.Avalonia](https://code.videolan.org/videolan/LibVLCSharp) - A cross-platform LibVLC Media Player SDK for .NET with Avalonia integration.
 - [MarcusW.VncClient](https://github.com/MarcusWichelmann/MarcusW.VncClient) - A high-performance, cross-platform VNC client control with Avalonia support.
 - [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
+- [Mpv.Avalonia](https://github.com/saverinonrails/Mpv.Avalonia/) - MediaControl for avalonia based on MPV and OpenGL.
 
 #### UI Libraries
 
