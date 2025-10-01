@@ -152,6 +152,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Other
 
+- [Cross-platform Download Manager (CDM)](https://github.com/adel-bakhshi/CrossPlatformDownloadManager) - A fast, open-source, and feature-rich download manager for Windows, Linux, and macOS with multi-threading, queue support, and browser integration.
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
 - [KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface.
 - [Lemon.ShadowFiend](https://github.com/NeverMorewd/Lemon.ShadowFiend) - A Windows Rdp client.
@@ -162,7 +163,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader.
-- [Cross-platform Download Manager (CDM)](https://github.com/adel-bakhshi/CrossPlatformDownloadManager) - A fast, open-source, and feature-rich download manager for Windows, Linux, and macOS with multi-threading, queue support, and browser integration.
 
 ## Tutorials
 
