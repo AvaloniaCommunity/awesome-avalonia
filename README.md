@@ -110,7 +110,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
-- [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11. 
+- [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11.
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees.
@@ -152,6 +152,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
 
 ### Other
+
+- [Cross-platform Download Manager (CDM)](https://github.com/adel-bakhshi/CrossPlatformDownloadManager) - A fast, open-source, and feature-rich download manager for Windows, Linux, and macOS with multi-threading, queue support, and browser integration.
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
 - [KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface.
 - [Lemon.ShadowFiend](https://github.com/NeverMorewd/Lemon.ShadowFiend) - A Windows Rdp client.
@@ -198,6 +200,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
 ### Localization / Translation / i18n
+
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
 
 ### Theme & Icons
