@@ -63,6 +63,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [432hz Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/432hz-Player) - Plays music in 432hz.
 - [Amplitude Soundboard](https://github.com/dan0v/AmplitudeSoundboard) - A sleek, cross-platform soundboard, available for Windows, Linux, and macOS.
 - [Apollo Studio](https://github.com/mat1jaczyyy/apollo-studio) - Apollo Studio is a standalone editor and live playback engine for RGB Launchpad light effects.
+- [DrumBuddy](https://github.com/sz-balage/DrumBuddy) - A cross-platform app for drummers, allowing them to record, manage, and learn new digital sheets, with real-time feedback.
 - [OpenPhonos](https://github.com/amp64/openphonos) - A cross-platform Sonos app built with Avalonia.
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
 - [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
