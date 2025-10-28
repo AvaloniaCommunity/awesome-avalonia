@@ -262,14 +262,14 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Document Viewers
 
+- [Avae.Printables](https://github.com/cedric56/Avae.Printables) - A library for printing from Avalonia UI visuals and other files.
+- [Avae.Printables.Docx](https://github.com/cedric56/Avae.Printables.Docx) - A library for printing docx files.
+- [Avae.Printables.Xps](https://github.com/cedric56/Avae.Printables.Xps) - A library for printing xps files.
 - [LiveMarkdown.Avalonia](https://github.com/DearVa/LiveMarkdown.Avalonia) - High performance, real-time markdown renderer for Avalonia.
 - [Markdown.Avalonia](https://github.com/whistyun/Markdown.Avalonia) - Render Markdown in Avalonia.
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multi-platform .NET bindings for [MuPDF](https://mupdf.com/).
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications.
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
-- [Avae.Printables](https://github.com/cedric56/Avae.Printables) - A library for printing from Avalonia UI visuals and other files.
-- [Avae.Printables.Docx](https://github.com/cedric56/Avae.Printables.Docx) - A library for printing docx files.
-- [Avae.Printables.Xps](https://github.com/cedric56/Avae.Printables.Xps) - A library for printing xps files.
 
 #### Media Players
 
