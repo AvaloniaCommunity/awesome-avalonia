@@ -188,6 +188,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AsyncNavigation](https://github.com/NeverMorewd/AsyncNavigation) -  A lightweight asynchronous navigation framework based on Microsoft.Extensions.DependencyInjection.
 - [Avae.Browser.Essentials](https://github.com/cedric56/Avae.Browser.Essentials) - Port of Microsoft.Maui.Essentials for browser.
 - [Avae.macOS.Essentials](https://github.com/cedric56/Avae.macOS.Essentials) - Port of Microsoft.Maui.Essentials for macOS.
+- [Avae.Linux.Essentials](https://github.com/cedric56/Avae.Linux.Essentials) - Port of Microsoft.Maui.Essentials for Linux.
+- [Avae.Windows.Essentials](https://github.com/cedric56/Avae.Windows.Essentials) - Port of Microsoft.Maui.Essentials for Windows.
 - [Avalonia.Xaml.Behaviors](https://github.com/AvaloniaUI/Avalonia.Xaml.Behaviors) - Avalonia XAML Behaviors is an easy-to-use means of adding common and reusable interactivity to your Avalonia applications with minimal code.
 - [AvaloniaInside.Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require such as Shell, Navigation, and Side Menu.
 - [Jc.AdMob.Avalonia](https://github.com/jcsawyer/Jc.AdMob.Avalonia) - Library to bring AdMob advertisements to Avalonia mobile projects.
@@ -265,6 +267,9 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multi-platform .NET bindings for [MuPDF](https://mupdf.com/).
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications.
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
+- [Avae.Printables](https://github.com/cedric56/Avae.Printables) - A library for printing from Avalonia UI visuals and other files.
+- [Avae.Printables.Docx](https://github.com/cedric56/Avae.Printables.Docx) - A library for printing docx files.
+- [Avae.Printables.Xps](https://github.com/cedric56/Avae.Printables.Xps) - A library for printing xps files.
 
 #### Media Players
 
