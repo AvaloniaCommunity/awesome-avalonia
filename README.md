@@ -103,6 +103,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world.
 - [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) - Nintendo Switch emulator with excellent accuracy and performance.
+- [Spune](https://github.com/NHLStenden/Spune) - A story-based gaming engine built with Avalonia.
 - [Steam Superheater](https://github.com/fgsfds/Steam-Superheater) - Fixes downloader for Steam games.
 - [VRCFaceTracking.Avalonia](https://github.com/dfgHiatus/VRCFaceTracking.Avalonia) - A cross-platform Avalonia re-make of [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking).
 
