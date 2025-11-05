@@ -111,7 +111,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 - [Beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
-- [CsGrafeq](tps://github.com/jyswjjgdwtdtj/CsGrafeq) - A cross-platform geometry sketchpad and implicit function plotting tool.
+- [CsGrafeq](https://github.com/jyswjjgdwtdtj/CsGrafeq) - A cross-platform geometry sketchpad and implicit function plotting tool.
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 - [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11. 
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
