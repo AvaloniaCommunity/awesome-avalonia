@@ -141,6 +141,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [FVim](https://github.com/yatli/fvim) - Cross-platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
+- [IntelliSense Localizer](https://github.com/xiangsxuan2025/IntelliSenseLocalizer) - a tool for generate .net Localized IntelliSense.
 - [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross-platform IP scanner application.
 - [MatoEditor](https://github.com/CoolCoolTomato/MatoEditor) - A beautiful markdown editor.
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross-platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
