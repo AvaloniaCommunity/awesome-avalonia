@@ -294,7 +294,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaCalendarView](https://github.com/eugenenoble2005/avaloniacalendarview) - Editable month view, week view and day view calendar control for Avalonia.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB, and CIELAB color spaces.
-- [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
@@ -304,6 +303,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing).
 - [AvaloniaRibbon](https://github.com/Splitwirez/AvaloniaRibbon) - Ribbon for Avalonia.
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
+- [Avalonia.Controls.Knob](https://github.com/Tulesha/Avalonia.Controls.Knob) - A Knob control for Avalonia.
+- [Avalonia.Controls.ToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
