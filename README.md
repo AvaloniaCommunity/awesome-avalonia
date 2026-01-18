@@ -67,6 +67,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [OpenPhonos](https://github.com/amp64/openphonos) - A cross-platform Sonos app built with Avalonia.
 - [OpenUTAU](https://github.com/stakira/OpenUtau) - A cross-platform singing synthesis platform.
 - [Powerliminals Player](https://github.com/mysteryx93/HanumanInstituteApps/wiki/Powerliminals-Player) - Plays multiple audios simultaneously at varying speeds.
+- [SweetTypeTone](https://github.com/amuza2/SweetTypeTone) - A modern Linux application that brings mechanical keyboard sounds to your typing experience.
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia.
 - [xquartz](https://gitlab.com/galahadd/xquartz) - Cross-platform, modern, minimalistic, intuitive, simple music player.
 - [Xune](https://github.com/VitalElement/Xune) - A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.
@@ -93,6 +94,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Finance
 
+- [FatouraDZ](https://github.com/amuza2/FatouraDZ) - A desktop application for Algerian businesses to create, manage, and export invoices compliant with Algerian legislation.
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross-platform using Avalonia UI.
 - [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
 
@@ -117,6 +119,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11. 
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
+- [SquashPicture](https://github.com/amuza2/SquashPicture) - A lightweight image compression tool that optimizes PNG and JPEG images using lossless compression techniques.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees.
 - [Xamlade](https://github.com/ComradeAkei/Xamlade) - Visual Avalonia UI XAML editor.
 
@@ -125,6 +128,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
+- [ProductivityCake](https://github.com/amuza2/ProductivityCake) - A beautiful Pomodoro timer with project management.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [SnapX](https://github.com/SnapXL/SnapX) - A cross-platform productivity tool that can upload images, video, text, and files in general.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
@@ -151,12 +155,14 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [RestApia Client](https://www.restapia.app/pages/features/code-driven) - Flex your coding skills while building API requests, and enjoy full flexibility without form-based hassles
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit.
 - [SourceGit](https://github.com/sourcegit-scm/sourcegit) - A cross-platform Git desktop client.
+- [StackOverFlow Extraction Tool](https://github.com/amuza2/StackOverFlowExtractionTool) - Search, filter, subscribe and get notified to the recent questions.
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
 
 ### Other
 
+- [Avalonia Calculator](https://github.com/amuza2/Avalonia_Calculator) - A simple, cross-platform calculator built with Avalonia UI.
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
 - [KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface.
 - [Lemon.ShadowFiend](https://github.com/NeverMorewd/Lemon.ShadowFiend) - A Windows Rdp client.
