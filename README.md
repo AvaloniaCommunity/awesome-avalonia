@@ -164,11 +164,12 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
 - [OpenSSH-GUI](https://github.com/frequency403/OpenSSH-GUI) - A cross-platform SSH GUI application.
 - [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
+- [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) - A Modern Package Management system for Arch Linux Distros.
 - [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader.
-- [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) - A Modern Package Management system for Arch Linux Distros.
+
 
 ## Tutorials
 
