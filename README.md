@@ -389,6 +389,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
 - [Live.Avalonia](https://github.com/worldbeater/Live.Avalonia) - Live reloading tool for developing Avalonia applications.
 - [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) - Cross-platform deployment utility which publishes your Avalonia application and packages it as a ready-to-ship installation file.
+- [Netloy](https://github.com/adel-bakhshi/Netloy) - A powerful cross-platform command-line tool to automate packaging and deployment of .NET applications (including Avalonia) into native installers for Windows (MSI, EXE), Linux (DEB, RPM, AppImage, Flatpak), and macOS (DMG, APP).
 - [Rider Plugin for Avalonia](https://github.com/ForNeVeR/AvaloniaRider) - JetBrains Rider plugin for Avalonia development.
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
