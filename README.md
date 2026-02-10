@@ -70,6 +70,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [XmlyDownloader](https://github.com/zxyao145/XmlyDownloader) - Free audio downloader for ximalaya.com based on Avalonia.
 - [xquartz](https://gitlab.com/galahadd/xquartz) - Cross-platform, modern, minimalistic, intuitive, simple music player.
 - [Xune](https://github.com/VitalElement/Xune) - A cross-platform resurrection of Zune Desktop Music player using AvaloniaUI.
+- [Avalonix](https://github.com/AvalonixPlayer/Avalonix) - Cross-platform, user-friendly music player.
 
 ### Communication
 
