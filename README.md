@@ -95,7 +95,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross-platform using Avalonia UI.
 - [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
-
+- [Monetria](https://github.com/joaovitored/Monetria) -  A simple personal finance management
 ### Gaming
 
 - [AvaloniaNES](https://github.com/wky214269273/AvaloniaNES) - A NES emulator built with Avalonia.
