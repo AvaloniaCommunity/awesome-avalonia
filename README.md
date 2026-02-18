@@ -129,6 +129,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [SnapX](https://github.com/SnapXL/SnapX) - A cross-platform productivity tool that can upload images, video, text, and files in general.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [TwincatToolbox](https://github.com/randolfly/TwincatToolbox) - A toolbox for developing TwinCAT3 programs which helps user to log and plot the specified symbols with predefined frequency.
+- [XFolder](https://github.com/zebrapixel/XFolder) - A modern macOS file manager with folder tree, multi-pane views, and tab support.
 
 ### Software Development
 
