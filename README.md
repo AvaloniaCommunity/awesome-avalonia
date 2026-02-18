@@ -125,6 +125,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
+- [MarkletAI](https://github.com/kuiperzone/Marklet-AI) - Marklet is an open source AI client primarily intended for use with local AI models. Its primary purpose is to do this simply and to do it well.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [SnapX](https://github.com/SnapXL/SnapX) - A cross-platform productivity tool that can upload images, video, text, and files in general.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
