@@ -92,7 +92,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue.
 
 ### Finance
-
+- [Monetria](https://github.com/joaovitored/Monetria) -  A simple personal finance management
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross-platform using Avalonia UI.
 - [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
 
@@ -164,10 +164,12 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
 - [OpenSSH-GUI](https://github.com/frequency403/OpenSSH-GUI) - A cross-platform SSH GUI application.
 - [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
+- [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) - A Modern Package Management system for Arch Linux Distros.
 - [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader.
+
 
 ## Tutorials
 
@@ -207,6 +209,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
 ### Localization / Translation / i18n
+
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
 
 ### Theme & Icons
@@ -224,8 +227,9 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
 - [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design.
-- [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
+- [Material.Icons.Avalonia](https://github.com/SKProCH/Material.Icons) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
+- [Palette Designer](https://github.com/LaurentInSeattle/PaletteDesigner) - Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.
 - [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
@@ -295,7 +299,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaCalendarView](https://github.com/eugenenoble2005/avaloniacalendarview) - Editable month view, week view and day view calendar control for Avalonia.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB, and CIELAB color spaces.
-- [AvaloniaControlsToolBar](https://github.com/Tulesha/Avalonia.Controls.ToolBar) - A ToolBar and ToolBarTray controls for Avalonia.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
@@ -331,6 +334,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
+- [Tulesha.KnobControl.Avalonia](https://github.com/Tulesha/KnobControl.Avalonia) - A Knob control for Avalonia.
+- [Tulesha.ToolBarControls.Avalonia](https://github.com/Tulesha/ToolBarControls.Avalonia) - A ToolBar and ToolBarTray controls for Avalonia.
 - [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) - Ursa is a UI library for building cross-platform UIs with Avalonia UI.
 - [UVtools.AvaloniaControls](https://github.com/sn4k3/UVtools/tree/master/UVtools.AvaloniaControls) - Fast and configurable AdvancedImageBox with image modes, pan & zoom, select regions, pixel grid, and cursor images.
 - [Xamarin.Forms.Platform.Avalonia](https://github.com/zhongzf/Xamarin.Forms.Platform.Avalonia) - Xamarin Forms platform implemented with Avalonia (A multi-platform .NET UI framework).
