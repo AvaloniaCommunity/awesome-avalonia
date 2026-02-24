@@ -156,6 +156,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
 
 ### Other
+
 - [A(valonia)XKCD](https://github.com/dylanlangston/Axkcd) - A cross-platform XKCD comic viewer for desktop and browser.
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
 - [KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface.
