@@ -207,6 +207,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
+- [Sortable.Avalonia](https://github.com/russkyc/sortable-avalonia) - Animated drag-drop and sort-swap behavior attachments for Avalonia inspired by SortableJS
 
 ### Localization / Translation / i18n
 
