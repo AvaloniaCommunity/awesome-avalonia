@@ -333,8 +333,10 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
+- [RichTextViewer.Avalonia](https://github.com/57951/RichTextViewer.Avalonia) - Rich Text view with Markdown and hyperlinks.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
+- [Toasty.Avalonia](https://github.com/57951/Toasty.Avalonia) - In-app toast notifications.
 - [Tulesha.KnobControl.Avalonia](https://github.com/Tulesha/KnobControl.Avalonia) - A Knob control for Avalonia.
 - [Tulesha.ToolBarControls.Avalonia](https://github.com/Tulesha/ToolBarControls.Avalonia) - A ToolBar and ToolBarTray controls for Avalonia.
 - [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) - Ursa is a UI library for building cross-platform UIs with Avalonia UI.
