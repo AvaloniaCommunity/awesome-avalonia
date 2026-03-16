@@ -231,6 +231,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Material.Icons.Avalonia](https://github.com/SKProCH/Material.Icons) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Palette Designer](https://github.com/LaurentInSeattle/PaletteDesigner) - Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.
+- [Pipboy.Avalonia](https://github.com/NeverMorewd/Pipboy.Avalonia) - A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.
 - [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
