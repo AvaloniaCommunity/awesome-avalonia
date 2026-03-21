@@ -281,6 +281,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [MuPDFCore](https://github.com/arklumpus/MuPDFCore) - Multi-platform .NET bindings for [MuPDF](https://mupdf.com/).
 - [PdfLibCore](https://github.com/jbaarssen/PdfLibCore) - A fast PDF editing and reading library for modern .NET Core applications.
 - [Print to PDF](https://github.com/Oaz/AvaloniaUI.PrintToPDF) - An experimental library for creating PDFs from Avalonia UI visuals.
+- [RichTextViewer.Avalonia](https://github.com/0xe25f/RichTextViewer.Avalonia) - Read-only rich text viewer control for Avalonia applications that enhances plain text.
 
 #### Media Players
 
@@ -336,6 +337,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
+- [Toasty.Avalonia](https://github.com/0xe25f/Toasty.Avalonia) - A reusable, fully featured toast notification overlay .NET 10 library for Avalonia 11 applications.
 - [Tulesha.KnobControl.Avalonia](https://github.com/Tulesha/KnobControl.Avalonia) - A Knob control for Avalonia.
 - [Tulesha.ToolBarControls.Avalonia](https://github.com/Tulesha/ToolBarControls.Avalonia) - A ToolBar and ToolBarTray controls for Avalonia.
 - [Ursa.Avalonia](https://github.com/irihitech/Ursa.Avalonia) - Ursa is a UI library for building cross-platform UIs with Avalonia UI.
