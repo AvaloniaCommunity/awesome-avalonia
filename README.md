@@ -144,6 +144,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross-platform IP scanner application.
 - [MatoEditor](https://github.com/CoolCoolTomato/MatoEditor) - A beautiful markdown editor.
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross-platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
+- [N.E.O.](https://github.com/hf75/N.E.O) - AI-powered native app builder. Describe an app in natural language and N.E.O. generates, compiles (Roslyn), and runs it in real time. Includes an MCP server for Claude Cowork/Code with live preview, screenshots, property editing, data injection, and export.
 - [Parquet Floor](https://github.com/aloneguid/parquet-dotnet) - Floor is a reference implementation of the desktop application to view Apache Parquet files.
 - [Pororoca](https://github.com/alexandrehtrb/Pororoca) - A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [PowerShell GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs!
