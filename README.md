@@ -213,6 +213,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Localization / Translation / i18n
 
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
+- [Tlumach](https://github.com/Allied-Bits-Ltd/tlumach-net) - Translation and localization for all kinds of .NET applications with UI framework integration (WPF, UWP, WinUI, MAUI, and Avalonia), support for multiple concurrent languages/locales and loading of strings from JSON, Arb (JSON as used in Dart/Flutter), simple INI, TOML, CSV and TSV, and .NET ResX files.
 
 ### Theme & Icons
 
