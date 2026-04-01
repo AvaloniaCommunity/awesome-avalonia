@@ -101,6 +101,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaNES](https://github.com/wky214269273/AvaloniaNES) - A NES emulator built with Avalonia.
 - [BuildLauncher](https://github.com/fgsfds/BuildLauncher) - Launcher and mods downloader for Build Engine games.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
+- [IronVault](https://github.com/NeverMorewd/IronVault) - Retro tank-battle game built with Avalonia UI & Pipboy.Avalonia — 100 hand-crafted stages, pure vector graphics, playable in the browser via WebAssembly.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - A Minecraft launcher that thinks differently about game management.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world.
