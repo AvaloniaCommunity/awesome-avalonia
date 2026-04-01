@@ -102,6 +102,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [BuildLauncher](https://github.com/fgsfds/BuildLauncher) - Launcher and mods downloader for Build Engine games.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
+- [Polymerium](https://github.com/d3ara1n/Polymerium) - A Minecraft launcher that thinks differently about game management.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world.
 - [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) - Nintendo Switch emulator with excellent accuracy and performance.
 - [Spune](https://github.com/NHLStenden/Spune) - A story-based gaming engine built with Avalonia.
