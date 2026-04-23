@@ -385,7 +385,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ## Artificial Intelligence
 
 - [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single `curl` command.
-- [N.E.O.](https://github.com/hf75/N.E.O) - AI-powered native app builder that generates and compiles Avalonia apps from natural language descriptions at runtime via Roslyn. Includes an MCP server for Claude Code with live preview, visual tree inspection, and hot reload.
 
 ## Tooling
 
