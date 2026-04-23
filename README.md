@@ -42,6 +42,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
   - [Articles](#articles)
   - [Podcasts](#podcasts)
   - [Presentations slides](#presentations-slides)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Tooling](#tooling)
   - [Books](#books)
   - [E-Books](#e-books)
@@ -381,6 +382,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## Presentations slides
 
+## Artificial Intelligence
+
+- [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single `curl` command.
+- [N.E.O.](https://github.com/hf75/N.E.O) - AI-powered native app builder that generates and compiles Avalonia apps from natural language descriptions at runtime via Roslyn. Includes an MCP server for Claude Code with live preview, visual tree inspection, and hot reload.
+
 ## Tooling
 
 - [Avalonia Accelerate - Dev Tools](https://avaloniaui.net/accelerate#devtools) - Enhanced Developer Tools with advanced inspection, diagnostics, and debugging features.
@@ -389,7 +395,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Avant Garde](https://github.com/kuiperzone/AvantGarde) - Standalone cross-platform XAML previewer for the C# Avalonia Framework.
 - [Citrus.Avalonia](https://github.com/AvaloniaUI/Citrus.Avalonia) - Modern styles for Avalonia controls.
 - [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
-- [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills (OpenCode, Claude Code) providing dense reference for the full Avalonia framework — XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration.
 - [HotAvalonia](https://github.com/Kir-Antipov/HotAvalonia) - Supercharge your Avalonia development experience with hot reload capabilities.
 - [IconPacks](https://github.com/ahopper/Avalonia.IconPacks) - Import of more than 21,000 vector icons from the Visual Studio image library, VSCode Icons, and MahApps.Metro.IconPacks.
 - [IconPacks Testbed](https://github.com/punker76/MahApps.Avalonia.IconPacks.Testbed) - Testbed for MahApps.Avalonia.IconPacks.
