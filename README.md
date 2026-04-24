@@ -225,7 +225,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Devolutions Avalonia-Extensions](https://github.com/Devolutions/avalonia-extensions) - Avalonia Themes for a MacOS or DevExpress look.
 - [HeroIcons.Avalonia](https://github.com/russkyc/heroicons-avalonia) - Hand crafted icons from [Heroicons](https://heroicons.com) made available to AvaloniaUI.
 - [Huskui.Avalonia](https://github.com/d3ara1n/Huskui.Avalonia) - A modern, elegant UI component library inspired by [ParkUI](https://park-ui.com/) and using the [Radix Colors](https://www.radix-ui.com/colors) palette.
-- [Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) - A library to easily display icons in an Avalonia App.
 - [IconPacks.Avalonia](https://github.com/MahApps/IconPacks.Avalonia) Really awesome icon packs for Avalonia in one library. The IconPacks packages contains controls, markup extensions and converters to use these awesome icons with your Avalonia applications in a simple way.
 - [Lucide.Avalonia](https://github.com/dme-compunet/Lucide.Avalonia) - Implementation of the Lucide icon library for AvaloniaUI.
 - [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
@@ -233,6 +232,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design.
 - [Material.Icons.Avalonia](https://github.com/SKProCH/Material.Icons) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
+- [Optris.Icons.Avalonia](https://github.com/Optris/Optris.Icons.Avalonia) - A library to easily display icons in an Avalonia App. Maintained continuation of [Projektanker.Icons.Avalonia](https://github.com/Projektanker/Icons.Avalonia) (now unmaintained), with Avalonia 12 support and Font Awesome 6/7 + Material Design icon packs.
 - [Palette Designer](https://github.com/LaurentInSeattle/PaletteDesigner) - Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.
 - [Pipboy.Avalonia](https://github.com/NeverMorewd/Pipboy.Avalonia) - A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.
 - [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
