@@ -385,6 +385,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ## Artificial Intelligence
 
 - [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single `curl` command.
+- [ComeOnOver Desktop Launcher](https://github.com/LewisIsWorking/ComeOnOverDesktopLauncher) - A Windows launcher that manages multiple isolated Claude AI instances side by side, with per-slot resource monitoring, thumbnails, and auto-update via Velopack.
 
 ## Tooling
 
