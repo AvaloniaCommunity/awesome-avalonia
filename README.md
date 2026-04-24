@@ -126,7 +126,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Productivity
 
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
-- [ComeOnOver Desktop Launcher](https://github.com/LewisIsWorking/ComeOnOverDesktopLauncher) - A Windows launcher that manages multiple isolated Claude AI instances side by side, with per-slot resource monitoring, thumbnails, and auto-update via Velopack.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
@@ -385,6 +384,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ## Artificial Intelligence
 
+- [ComeOnOver Desktop Launcher](https://github.com/LewisIsWorking/ComeOnOverDesktopLauncher) - A Windows launcher that manages multiple isolated Claude AI instances side by side, with per-slot resource monitoring, thumbnails, and auto-update via Velopack.
 - [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single `curl` command.
 
 ## Tooling
