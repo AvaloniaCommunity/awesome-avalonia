@@ -404,6 +404,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
 - [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - Theme manager for Avalonia applications.
+- [XVGO](https://ent3m.github.io/xvgo/) - An SVG to XAML converter producing styleable and animatable assets.
 
 ## Books
 
