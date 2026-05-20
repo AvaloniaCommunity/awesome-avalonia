@@ -218,6 +218,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Theme & Icons
 
+- [Actipro Themes](https://www.actiprosoftware.com/products/controls/avalonia#section-themes) - Free dynamic framework for managing modern control themes.
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
 - [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
 - [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications.
@@ -270,6 +271,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### Docking Layout
 
+- [Actipro Docking/MDI](https://www.actiprosoftware.com/products/controls/avalonia#section-docking) - A polished and customizable docking window and MDI layout system.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [NP.Avalonia.Unidock](https://github.com/npolyak/NP.Avalonia.Unidock) - Simple VS2022-like window and view docking.
 - [UniDock](https://github.com/npolyak/NP.Avalonia.UniDock) - A docking layout system.
@@ -297,7 +299,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 #### UI Libraries
 
-- [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
+- [Actipro Avalonia Controls](https://github.com/Actipro/Avalonia-Controls) - A comprehensive suite of advanced UI components including docking windows, MDI, ribbon, toolbars, menus, galleries, user prompts, settings UI, barcodes, an advanced theming system, and many other helpful controls.
 - [Aura.UI](https://github.com/PieroCastillo/Aura.UI) - A Library with a lot of Controls for AvaloniaUI.
 - [Aura3D](https://github.com/CeSun/Aura3D) - A lightweight, extensible, and high-performance 3D rendering control.
 - [AtomUI](https://github.com/chinware/AtomUI) - AtomUI is an implementation of Ant Design based on Avalonia/.NET technology, and is committed to bringing Ant Design's excellent and efficient design language and experience to the Avalonia/.NET cross-platform desktop software development field.
