@@ -232,6 +232,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design.
 - [Material.Icons.Avalonia](https://github.com/SKProCH/Material.Icons) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
+- [Flags.Icons.Avalonia](https://github.com/Alpaq92/Flags.Icons) - Flag icons from 5 upstream sources (Twemoji, Circle, Square, Lipis, FlagHub) inspired by Material.Icons.Avalonia. Sibling packages also available for Eto / MAUI / MewUI / Uno / WinForms / WinUI / WPF.
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
 - [Palette Designer](https://github.com/LaurentInSeattle/PaletteDesigner) - Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.
 - [Pipboy.Avalonia](https://github.com/NeverMorewd/Pipboy.Avalonia) - A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.
