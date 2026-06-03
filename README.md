@@ -220,6 +220,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 - [Aero Theme](https://github.com/Splitwirez/avalonia-aero-theme) - Windows Aero Theme for Avalonia.
 - [AntDesign.Avalonia](https://github.com/MicroSugarDeveloperOrg/AntDesign.Avalonia) - Avalonia Theme inspired by Ant Design.
+- [Avalonia.Fluid](https://github.com/Alpaq92/Avalonia.Fluid) - Fluent 2-inspired Avalonia theme that adapts to the OS accent color across Windows, macOS, and Linux.
 - [CherylUI](https://github.com/kikipoulet/CherylUI) - Avalonia UI Library for Mobile Applications.
 - [Classic.Avalonia](https://github.com/BAndysc/Classic.Avalonia) - Classic Windows 9x-like theme and controls for Avalonia.
 - [Devolutions Avalonia-Extensions](https://github.com/Devolutions/avalonia-extensions) - Avalonia Themes for a MacOS or DevExpress look.
