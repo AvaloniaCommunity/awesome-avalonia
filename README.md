@@ -404,6 +404,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [ThemeEditor](https://github.com/wieslawsoltes/ThemeEditor) - ThemeEditor is an Avalonia UI Framework theme editor.
 - [ThemeManager](https://github.com/wieslawsoltes/Avalonia.ThemeManager) - Theme manager for Avalonia applications.
+* [ToggleComment](https://github.com/trup40/ToggleComment) - A simple visual studio extension to comment/uncomment the selected lines with .AXAML support.
 
 ## Books
 
