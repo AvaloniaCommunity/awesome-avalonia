@@ -304,6 +304,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaCalendarView](https://github.com/eugenenoble2005/avaloniacalendarview) - Editable month view, week view and day view calendar control for Avalonia.
 - [AvaloniaColorPicker](https://github.com/arklumpus/AvaloniaColorPicker) - A color picker that supports RGB, HSB, and CIELAB color spaces.
+- [AvaloniaControls](https://github.com/Brainforce1/AvaloniaControls) - Various nice controls for Avalonia like a Progress ring and Speedometer.
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaFixedWrapPanel](https://github.com/MikD1/AvaloniaFixedWrapPanel) - Avalonia WrapPanel with fixed number of items per line.
 - [AvaloniaGraphControl](https://github.com/Oaz/AvaloniaGraphControl) - A graph layout panel based on [Microsoft Automatic Graph Layout](https://github.com/microsoft/automatic-graph-layout).
