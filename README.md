@@ -249,6 +249,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [HanumanInstitute.MvvmDialogs.Avalonia](https://github.com/mysteryx93/HanumanInstitute.MvvmDialogs/) - Simplifies opening dialogs from a view model with MVVM.
 - [Markup Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative UI and MVU Pattern in C# for Avalonia UI.
 - [NP.Avalonia.Gidon](https://github.com/npolyak/NP.Avalonia.Gidon) - IoC MVVM framework for Avalonia UI.
+- [Plumix](https://github.com/Plumix-Net/Plumix) - Flutter-inspired UI framework for .NET - build declarative, widget-based UIs in C# on top of Avalonia, with Material and Cupertino widget sets.
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
 - [ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia) - MVU applications using F# and Avalonia (with XAML views).
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
