@@ -332,6 +332,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [MvvmNavigation](https://github.com/Egor92/MvvmNavigation) - MVVM friendly library for easy navigation management in Avalonia applications.
 - [NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia) - A collection of controls for node based editors designed for MVVM.
 - [NodifyAvalonia](https://github.com/BAndysc/nodify-avalonia) - Highly performant and modular controls for node-based editors designed for data-binding and MVVM. 1-1 port of WPF's version.
+- [Nodify.Avalonia](https://github.com/trrahul/nodify-avalonia) - Port of [Nodify](https://github.com/miroiu/nodify) that targets Avalonia 12 and .NET 8. It follows the upstream API and behavior while adapting input, rendering, and theming to Avalonia.
 - [Notification.Avalonia](https://github.com/AvaloniaCommunity/Notification.Avalonia) - Control for show different information in LINQ style.
 - [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
