@@ -139,6 +139,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy).
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross-platform IDE and Shell.
 - [BlitzSearch](http://github.com/natestah/blitzSearch) - Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.
+- [CodeSnip](https://github.com/mx7b7/codesnip-avalonia) - Cross-platform code snippet manager with local code execution and Compiler Explorer integration.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [DevTools for Avalonia](https://www.devtools.nlnet.net) - A third-party interface debugging functionality for Avalonia, providing user-friendly and rich debugging features.
 - [FVim](https://github.com/yatli/fvim) - Cross-platform Neovim front-end UI, built with F# + Avalonia.
