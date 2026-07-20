@@ -295,6 +295,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [MediaPlayerUI](https://github.com/mysteryx93/MediaPlayerUI.NET/) - Re-usable media player UI.
 - [Mpv.Avalonia](https://github.com/saverinonrails/Mpv.Avalonia/) - MediaControl for avalonia based on MPV and OpenGL.
 
+#### Terminals
+
+- [RoyalTerminal](https://github.com/royalapplications/RoyalTerminal) - High-performance terminal control with native [https://github.com/ghostty-org/ghostty](ghostty) VT integration.
+- [SvcSystems.UI.Terminal](https://github.com/IvanJosipovic/SvcSystems.UI.Terminal) - Terminal Control for Avalonia built on top of [XTerm.NET](https://github.com/tomlm/XTerm.NET).
+
 #### UI Libraries
 
 - [Actipro Avalonia UI Controls](https://github.com/Actipro/Avalonia-Controls) - Free UI controls and beautiful themes, along with a Pro option for advanced controls.
