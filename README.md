@@ -42,6 +42,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
   - [Articles](#articles)
   - [Podcasts](#podcasts)
   - [Presentations slides](#presentations-slides)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [Tooling](#tooling)
   - [Books](#books)
   - [E-Books](#e-books)
@@ -92,7 +93,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Purple Explorer](https://github.com/telstrapurple/PurpleExplorer) - A cross-platform desktop application to manage messages in Azure service bus and queue.
 
 ### Finance
-
+- [Monetria](https://github.com/joaovitored/Monetria) -  A simple personal finance management
 - [Nethereum UI](https://github.com/Nethereum/Nethereum.UI.Desktop) - Simple wallet cross-platform using Avalonia UI.
 - [WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux, and macOS. Built-in Tor, CoinJoin, and coin control features.
 
@@ -101,7 +102,9 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaNES](https://github.com/wky214269273/AvaloniaNES) - A NES emulator built with Avalonia.
 - [BuildLauncher](https://github.com/fgsfds/BuildLauncher) - Launcher and mods downloader for Build Engine games.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
+- [IronVault](https://github.com/NeverMorewd/IronVault) - Retro tank-battle game built with Avalonia UI & Pipboy.Avalonia — 100 hand-crafted stages, pure vector graphics, playable in the browser via WebAssembly.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
+- [Polymerium](https://github.com/d3ara1n/Polymerium) - A Minecraft launcher that thinks differently about game management.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world.
 - [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) - Nintendo Switch emulator with excellent accuracy and performance.
 - [Spune](https://github.com/NHLStenden/Spune) - A story-based gaming engine built with Avalonia.
@@ -156,6 +159,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
 
 ### Other
+
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
 - [KubeUI](https://github.com/IvanJosipovic/KubeUI) - Kubernetes User Interface.
 - [Lemon.ShadowFiend](https://github.com/NeverMorewd/Lemon.ShadowFiend) - A Windows Rdp client.
@@ -163,10 +167,12 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [NP.Avalonia.Demos](https://github.com/npolyak/NP.Avalonia.Demos) - Demos of Avalonia's features.
 - [OpenSSH-GUI](https://github.com/frequency403/OpenSSH-GUI) - A cross-platform SSH GUI application.
 - [Prism Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - Learn Prism.Avalonia with this boilerplate for Regions, Modules, Dialog Service, Notification Service, and more.
+- [Shelly ALPM](https://github.com/ZoeyErinBauer/Shelly-ALPM) - A Modern Package Management system for Arch Linux Distros.
 - [Unlimotion](https://github.com/Kibnet/Unlimotion) - A cross-platform open-source task scheduler with unlimited nesting level.
 - [xDelta3 Cross GUI](https://github.com/dan0v/xdelta3-cross-gui) - A cross-platform GUI for creating patches using xDelta3 on Windows, Linux, and macOS.
 - [YouTube Video Uploader](https://github.com/schoolgunslinger/YouTube-Video-Uploader-Avalonia) - Converted from WPF to Avalonia cross-platform tool for uploading videos to YouTube.
 - [YoutubeDownloader](https://github.com/legend2ks/YoutubeDownloader) - Open-source YouTube video downloader.
+
 
 ## Tutorials
 
@@ -203,9 +209,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Nukepayload2.SourceGenerators.AvaloniaUI](https://github.com/Nukepayload2/Nukepayload2.SourceGenerators.AvaloniaUI) - Visual Basic source generator for typed Avalonia `x:Name` References.
 - [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
+- [Sortable.Avalonia](https://github.com/russkyc/sortable-avalonia) - Animated drag-drop and sort-swap behavior attachments for Avalonia inspired by SortableJS
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
 ### Localization / Translation / i18n
+
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
 
 ### Theme & Icons
@@ -223,8 +231,10 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [LucideAvaloniaUI](https://github.com/MarwanFr/LucideAvaloniaUI) - A library for AvaloniaUI that integrates Lucide icons into your Avalonia applications.
 - [Magic.Icon](https://github.com/liwuqingxin/Magic.Icon) - An icon class generator for iconfont in avalonia and wpf.
 - [Material Design](https://github.com/AvaloniaCommunity/Material.Avalonia) - Collection of styles to help you customize your Avalonia application theme with Material Design.
-- [Material.Icons.Avalonia](https://github.com/AvaloniaUtils/Material.Icons.Avalonia) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
+- [Material.Icons.Avalonia](https://github.com/SKProCH/Material.Icons) - Lightweight library for easily display 6000+ icons from [MaterialDesignIcons](https://pictogrammers.com/library/mdi/?welcome)
 - [Neumorphism.Avalonia](https://github.com/flarive/Neumorphism.Avalonia) - Easy to use and customizable Neumorphism Design implementation for Avalonia.
+- [Palette Designer](https://github.com/LaurentInSeattle/PaletteDesigner) - Interactive tool to generate beautiful color palettes, exporting to Adobe ASE, CSS, XAML, AXAML and JSON.
+- [Pipboy.Avalonia](https://github.com/NeverMorewd/Pipboy.Avalonia) - A Fallout 4 Pip-Boy inspired theme library for Avalonia UI.
 - [Romzetron.Avalonia](https://github.com/Romzetron/Romzetron.Avalonia) - Avalonia Theme that supports light/dark modes and a variety of color themes.
 - [Semi.Avalonia](https://github.com/irihitech/Semi.Avalonia) - Avalonia Theme inspired by Semi Design.
 - [ShadUI](https://github.com/accntech/shad-ui) - A modern, beautiful, and intuitive UI library inspired by [shadcn/ui](https://ui.shadcn.com/) and [Suki UI Library](https://kikipoulet.github.io/SukiUI/).
@@ -326,6 +336,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [NP.Avalonia.Visuals](https://github.com/npolyak/NP.Avalonia.Visuals) - Additional visual controls by npolyak.
 - [Paginator.Avalonia](https://github.com/AvaloniaUtils/Paginator.Avalonia) - A paginator control.
 - [PanAndZoom](https://github.com/wieslawsoltes/PanAndZoom) - Pan and zoom control for WPF and Avalonia.
+- [PleasantUI](https://github.com/Onebeld/PleasantUI) - Graphical user interface library for Avalonia with its own controls.
 - [RangeSlider](https://github.com/DmitryNizhebovsky/Avalonia.RangeSlider) - RangeSlider control.
 - [Ripple Effect](https://github.com/Roflyanochka/AvaloniaRipple) - Sample of ripple effect.
 - [Tabalonia](https://github.com/egorozh/Tabalonia) - Tab Control with drag-able tabs.
@@ -370,6 +381,11 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [HanselMinutes - E684](https://www.hanselminutes.com/684/avalonia-is-a-cross-platform-xaml-framework-for-net-framework-net-core-and-mono-with-steve) - Steven Kirk is on HanselMinutes to talk about Avalonia UI.
 
 ## Presentations slides
+
+## Artificial Intelligence
+
+- [Avalonia-Skills](https://github.com/linuxdevel/Avalonia-skills) - AI agent skills for OpenCode, Claude Code, and other agents — dense reference covering the full Avalonia framework (XAML, layout, styling, data binding, MVVM, controls, testing, deployment, and WPF migration). Install with a single `curl` command.
+- [ComeOnOver Desktop Launcher](https://github.com/LewisIsWorking/ComeOnOverDesktopLauncher) - A Windows launcher that manages multiple isolated Claude AI instances side by side, with per-slot resource monitoring, thumbnails, and auto-update via Velopack.
 
 ## Tooling
 
