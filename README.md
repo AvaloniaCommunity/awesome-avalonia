@@ -265,6 +265,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive Plotting Library for .NET.
 - [StockPlot](https://github.com/BizUnity/StockPlot) - A Stock Markets Technical Analysis library for AvaloniaUI, based on ScottPlot, supporting live data stream.
 - [TeeChart](https://github.com/Steema/TeeChart-Avalonia-Samples) - Versatile native .NET Charting, Map, and Gauge control.
+- [Tulesha.GanttChartControl.Avalonia](https://github.com/Tulesha/GanttChartControl.Avalonia) - A gantt chart control for Avalonia
+- [Tulesha.SwimlaneChartControl.Avalonia](https://github.com/Tulesha/SwimlaneChartControl.Avalonia) - A swimlane chart control for Avalonia
 
 ### Controls
 
