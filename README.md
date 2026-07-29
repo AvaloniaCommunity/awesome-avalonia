@@ -139,7 +139,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy).
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross-platform IDE and Shell.
 - [BlitzSearch](http://github.com/natestah/blitzSearch) - Windows, Find-in-Files Tool, an improved Find-in-files Experience for any IDE.
-- [Consolonia](https://github.com/jinek/Consolonia) - Cross-platform framework for building terminal user interfaces using Avalonia XAML.
 - [DAGE](https://github.com/KvanTTT/DAGE) - DAGE is an Desktop Antlr grammar editor.
 - [DevTools for Avalonia](https://www.devtools.nlnet.net) - A third-party interface debugging functionality for Avalonia, providing user-friendly and rich debugging features.
 - [FVim](https://github.com/yatli/fvim) - Cross-platform Neovim front-end UI, built with F# + Avalonia.
@@ -316,6 +315,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
+- [Consolonia](https://github.com/jinek/Consolonia) - Cross-platform framework for building terminal user interfaces using Avalonia XAML.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [DotNetCampus.InkCanvas](https://github.com/dotnet-campus/DotNetCampus.InkCanvas) - An InkCanvas control for drawing and handwriting on Avalonia.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
