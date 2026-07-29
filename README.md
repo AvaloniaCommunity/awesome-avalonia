@@ -315,6 +315,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AvaloniaSpacedGrid](https://github.com/Nickelony/SpacedGrid-Avalonia) - An extension of AvaloniaUI's Grid class with added RowSpacing and ColumnSpacing properties.
 - [Avalonia.PropertyGrid](https://github.com/bodong1987/Avalonia.PropertyGrid) - A property editing control similar to DevExpress.PropertyGridControl.
 - [CalendarControl](https://github.com/satial-interfaces/CalendarControl) - A calendar control (week view) for Avalonia.
+- [Consolonia](https://github.com/jinek/Consolonia) - Cross-platform framework for building terminal user interfaces using Avalonia XAML.
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [DotNetCampus.InkCanvas](https://github.com/dotnet-campus/DotNetCampus.InkCanvas) - An InkCanvas control for drawing and handwriting on Avalonia.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
