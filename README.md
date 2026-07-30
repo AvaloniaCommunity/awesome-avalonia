@@ -250,6 +250,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Markup Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative UI and MVU Pattern in C# for Avalonia UI.
 - [NP.Avalonia.Gidon](https://github.com/npolyak/NP.Avalonia.Gidon) - IoC MVVM framework for Avalonia UI.
 - [Prism](https://github.com/AvaloniaCommunity/Prism.Avalonia) - Prism framework support for Avalonia UI.
+- [Rambla](https://github.com/nicoseijas/RamblaState) - High-frequency observable state: thread-safe writes, coalescing and batching for real-time UIs.
 - [ReactiveElmish.Avalonia](https://github.com/JordanMarr/ReactiveElmish.Avalonia) - MVU applications using F# and Avalonia (with XAML views).
 - [ReactiveHistory](https://github.com/wieslawsoltes/ReactiveHistory) - Reactive undo/redo framework for .NET.
 - [ReactiveMvvm](https://github.com/reactiveui/ReactiveMvvm) - Cross-platform ReactiveUI & PropertyChanged.Fody demo app.
