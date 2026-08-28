@@ -210,6 +210,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Peachpie.Avalonia](https://github.com/FibonacciFox/Peachpie.Avalonia) - Library that allows you to create cross-platform applications in PHP in the .NET environment using Avalonia UI.
 - [ShowMeTheXaml.Avalonia](https://github.com/AvaloniaUtils/ShowMeTheXaml.Avalonia) - A control that makes it easier to display the corresponding XAML at runtime.
 - [Sortable.Avalonia](https://github.com/russkyc/sortable-avalonia) - Animated drag-drop and sort-swap behavior attachments for Avalonia inspired by SortableJS
+- [Sparkle.Live2DView](https://github.com/Mozi216/Sparkle.Live2DView) - A lightweight Live2D Cubism rendering control for Avalonia with eye tracking, dragging, zooming, and motion playback.
 - [Verify.Avalonia](https://github.com/VerifyTests/Verify.Avalonia) - Extends Verify to allow verification of Avalonia UIs using headless testing.
 
 ### Localization / Translation / i18n
