@@ -135,6 +135,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Software Development
 
+- .[GooseDuck](https://github.com/QTwiSe/GooseDuck) - A cross-platform, secure messenger built with Avalonia UI and ASP.NET Core, featuring a custom cryptographic protocol against DPI systems.
 - [Asv.Drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
 - [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy).
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross-platform IDE and Shell.
