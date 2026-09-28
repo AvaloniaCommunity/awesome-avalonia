@@ -99,6 +99,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Gaming
 
+- [ArkKeeper](https://github.com/Muurrcc/ArkKeeper) - Server manager for ARK: Survival Evolved dedicated servers, with RCON, backups, mods and a scheduler.
 - [AvaloniaNES](https://github.com/wky214269273/AvaloniaNES) - A NES emulator built with Avalonia.
 - [BuildLauncher](https://github.com/fgsfds/BuildLauncher) - Launcher and mods downloader for Build Engine games.
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
