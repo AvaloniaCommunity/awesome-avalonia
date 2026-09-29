@@ -157,7 +157,8 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
-
+- [UwView](https://github.com/amru195704/UwView) - Viewer and search tool for huge text and log files, with a GUI and a command line (uvf) that share one engine.
+  
 ### Other
 
 - [Komiic](https://github.com/afunc233/Komiic) - A cross-platform client for [Komiic.com](https://komiic.com)
