@@ -125,6 +125,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 
 ### Productivity
 
+- [aSql](https://github.com/HasuGithub/aSql) - A cross-platform lightweight SQL helper tool with an Avalonia UI as frontend
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
