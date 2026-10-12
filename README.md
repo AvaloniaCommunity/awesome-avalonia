@@ -85,6 +85,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [AHpx.RG](https://github.com/SinoAHpx/AHpx.RG) - Cross-platform readme generator based on xml summary documentation.
 - [MangaReader](https://github.com/MonkAlex/MangaReader) - Help to download updates from online manga readers.
 - [ModularDoc](https://github.com/hailstorm75/ModularDoc) - Modular documentation generator for .NET libraries. Currently supporting Markdown only for GitHub, GitLab, and Bitbucket.
+- [PaperStager](https://github.com/rad1092/paperstager) - Cross-platform PDF batch review, splitting, and naming with explicit export approval.
 
 ### Data Transfer
 
