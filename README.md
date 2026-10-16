@@ -143,6 +143,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [DevTools for Avalonia](https://www.devtools.nlnet.net) - A third-party interface debugging functionality for Avalonia, providing user-friendly and rich debugging features.
 - [FVim](https://github.com/yatli/fvim) - Cross-platform Neovim front-end UI, built with F# + Avalonia.
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
+- [JSynth](https://github.com/ozanbora/JSynth) - A visual node editor for Julia: wire inputs, functions and plots on a canvas, run them with Julia and see every value on its node.
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
 - [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross-platform IP scanner application.
 - [MatoEditor](https://github.com/CoolCoolTomato/MatoEditor) - A beautiful markdown editor.
