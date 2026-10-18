@@ -145,6 +145,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Git-It-GUI](https://github.com/reignstudios/Git-It-GUI) - A Git GUI client designed to be simple with game studio collaboration in mind.
 - [JSON Formatter](https://github.com/davidtimovski/json-formatter) - A cross-platform desktop application for formatting JSON strings.
 - [Kangaroo IP Scanner](https://github.com/ewilliams0305/kangaroo) - Cross-platform IP scanner application.
+- [LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude) - Desktop supervisor that keeps a configured CLI worker running across reboot, with an embedded terminal for the one-time login. Windows, Linux, and macOS.
 - [MatoEditor](https://github.com/CoolCoolTomato/MatoEditor) - A beautiful markdown editor.
 - [Modern VICE PDB Monitor](https://github.com/MihaMarkic/modern-vice-pdb-monitor) - Provides a cross-platform debugging environment for VICE emulator. Uses AvaloniaEdit as well.
 - [Parquet Floor](https://github.com/aloneguid/parquet-dotnet) - Floor is a reference implementation of the desktop application to view Apache Parquet files.
