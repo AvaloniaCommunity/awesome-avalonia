@@ -126,6 +126,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Productivity
 
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
+- [Convertino](https://github.com/hasanzadee/convertino) - A cross-platform radial file converter and quick editor: drag a file, tap Shift, drop it on a petal.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
