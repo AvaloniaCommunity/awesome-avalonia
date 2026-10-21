@@ -215,6 +215,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 ### Localization / Translation / i18n
 
 - [Echoes](https://github.com/Voyonic-Systems/Echoes) - Simple, type-safe translations library.
+- [ResXLocalization](https://github.com/rent-a-developer/ResXLocalization) - Localization engine for Avalonia and WPF, based on ResX files, including ICU message format and full native AOT compatibility.
 
 ### Theme & Icons
 
