@@ -154,6 +154,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [RestApia Client](https://www.restapia.app/pages/features/code-driven) - Flex your coding skills while building API requests, and enjoy full flexibility without form-based hassles
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit.
 - [SourceGit](https://github.com/sourcegit-scm/sourcegit) - A cross-platform Git desktop client.
+- [Sweepling](https://github.com/hazeliscoding/sweepling) - Windows tray app that finds the processes Claude Code sessions left running and closes them after you confirm. NativeAOT, about 14 MB idle.
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
