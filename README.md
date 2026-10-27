@@ -122,6 +122,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees.
 - [Xamlade](https://github.com/ComradeAkei/Xamlade) - Visual Avalonia UI XAML editor.
+- [ProtocolForge](https://github.com/yangying-dev/protocol-forge) - Cross-platform 3GPP protocol workbench for inspecting, editing, and replaying PFCP/NGAP/GTP-U/NAS/S1AP/Diameter packets from PCAP files. Free and open source (Apache-2.0).
 
 ### Productivity
 
