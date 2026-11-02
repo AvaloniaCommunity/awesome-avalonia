@@ -135,7 +135,6 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [TwincatToolbox](https://github.com/randolfly/TwincatToolbox) - A toolbox for developing TwinCAT3 programs which helps user to log and plot the specified symbols with predefined frequency.
 
-
 ### Software Development
 
 - [Asv.Drones](https://github.com/asv-soft/asv-drones) - Open source user-friendly software solution designed to provide remote control and monitoring of drones, payloads, and RTK base stations.
