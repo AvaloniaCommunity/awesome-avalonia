@@ -110,6 +110,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Spune](https://github.com/NHLStenden/Spune) - A story-based gaming engine built with Avalonia.
 - [Steam Superheater](https://github.com/fgsfds/Steam-Superheater) - Fixes downloader for Steam games.
 - [VRCFaceTracking.Avalonia](https://github.com/dfgHiatus/VRCFaceTracking.Avalonia) - A cross-platform Avalonia re-make of [VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking).
+- [Pilewise](https://github.com/AleksandrPidlozhevich/Pilewise) - Syncs Steam, Epic, GOG and Xbox libraries into Notion, Google Sheets or CSV to track your backlog and completed games.
 
 ### Graphics
 
@@ -132,6 +133,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [SnapX](https://github.com/SnapXL/SnapX) - A cross-platform productivity tool that can upload images, video, text, and files in general.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
 - [TwincatToolbox](https://github.com/randolfly/TwincatToolbox) - A toolbox for developing TwinCAT3 programs which helps user to log and plot the specified symbols with predefined frequency.
+- [Lapsus](https://github.com/AleksandrPidlozhevich/Lapsus) - Keyboard layout switcher for Windows and macOS that retypes a line typed in the wrong layout with a hotkey, plus local voice typing. Runs offline, no telemetry.
 
 ### Software Development
 
