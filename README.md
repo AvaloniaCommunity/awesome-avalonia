@@ -104,6 +104,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [ColorMC](https://github.com/Coloryr/ColorMC) - A Minecraft Launcher.
 - [IronVault](https://github.com/NeverMorewd/IronVault) - Retro tank-battle game built with Avalonia UI & Pipboy.Avalonia — 100 hand-crafted stages, pure vector graphics, playable in the browser via WebAssembly.
 - [MzingaViewer](https://github.com/jonthysell/Mzinga) - Cross-platform UI for playing the board game Hive against compatible AIs.
+- [Pilewise](https://github.com/AleksandrPidlozhevich/Pilewise) - Syncs Steam, Epic, GOG and Xbox libraries into Notion, Google Sheets or CSV to track your backlog and completed games.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - A Minecraft launcher that thinks differently about game management.
 - [RoadCaptain](https://github.com/sandermvanvliet/RoadCaptain) - Build and run custom routes in Zwift the virtual cycling world.
 - [Ryujinx](https://git.ryujinx.app/ryubing/ryujinx) - Nintendo Switch emulator with excellent accuracy and performance.
@@ -128,6 +129,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Betakads](https://github.com/ZadokJoshua/betakads-avalonia-app) - An AI-powered flashcards generator.
 - [Everywhere](https://github.com/DearVa/Everywhere) - Everywhere is a context-aware, interactive AI/LLM assistant built with .NET and Avalonia.
 - [iTimeSlot](https://github.com/hoyho/iTimeSlot) - A cross-platform and freestyle time management app for you to focus on completing tasks.
+- [Lapsus](https://github.com/AleksandrPidlozhevich/Lapsus) - Keyboard layout switcher for Windows and macOS that retypes a line typed in the wrong layout with a hotkey, plus local voice typing. Runs offline, no telemetry.
 - [Sapphire Notes](https://github.com/davidtimovski/sapphire-notes) - A cross-platform desktop application for managing notes.
 - [SnapX](https://github.com/SnapXL/SnapX) - A cross-platform productivity tool that can upload images, video, text, and files in general.
 - [Team Sketch](https://github.com/davidtimovski/team-sketch) - A cross-platform desktop application for collaborative drawing.
