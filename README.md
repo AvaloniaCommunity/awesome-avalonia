@@ -119,6 +119,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Lacmus](https://github.com/lacmus-foundation/lacmus-app) - The program for searching through photos from the air of lost people in the forest using Retina Net neural network.
 - [PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable image viewer for Windows 10 and 11. 
 - [PixelViewer](https://github.com/carina-studio/PixelViewer) - Cross-platform image viewer which supports reading raw Luminance/YUV/RGB/ARGB pixels data from file and rendering it.
+- [Quattromani Draw](https://github.com/cbuzi/quattromani-draw) - Cross-platform vector editor with a built-in MCP server, so an AI agent can draw on the same document as you.
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees.
 - [Xamlade](https://github.com/ComradeAkei/Xamlade) - Visual Avalonia UI XAML editor.
