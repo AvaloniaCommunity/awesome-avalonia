@@ -157,6 +157,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [Syndiesis](https://github.com/Rekkonnect/Syndiesis) - A syntax (and more) visualizer for C# code powered by Roslyn.
 - [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-platform universal log viewer which supports customizable logs reading/parsing/displaying.
 - [UVtools](https://github.com/sn4k3/UVtools) - A cross-platform MSLA/DLP, file analysis, calibration, repair, conversion, manipulation, image processing, stacked layers, openCV.
+- [VioLens](https://github.com/MarkSPowell/VioLens) - Free, open source HTTPS debugging proxy for Windows, macOS and Linux, and an alternative to Fiddler Classic.
 
 ### Other
 
